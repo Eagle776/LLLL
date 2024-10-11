@@ -1,0 +1,449 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" group-title="España" ,ES:BEIN LALIGA 1HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12300
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" ,ES:BEIN SPORTS LA LIGA HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12301
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" ,ES:MOVISTAR DEPORTE 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12302
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png" ,ES:MOVISTAR DEPORTE 3 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12303
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,ES:DAZN LA LIGA 2 TV HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12304
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRy3Dxy/Bein-La-Liga.png" ,ES:BEIN SPORTS FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12305
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" ,ES:MOVISTAR LA LIGA HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12306
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" ,ES:MOVISTAR DEPORTES HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12307
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" ,ES:MOVISTAR ACCION HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12308
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" ,ES:MOVISTAR DRAMA HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12309
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" ,ES:COMEDY CENTRAL
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12311
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" ,ES: MOVISTAR CINE ESPAÑOL
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12313
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" ,ES:AXN MOVIES
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12320
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" ,ES:NICKELODEON
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12322
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" ,ES:CALLE 13 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12323
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" ,ES:Fox
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12324
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" ,ES:Neox HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12326
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" ,ES:Energy HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12327
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" ,ES:CLAN TVE
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12329
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" ,ES:Telecinco HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12330
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" ,ES:Cuatro HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12331
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" ,ES:Antena 3 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12332
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" ,ES:La 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12333
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" ,ES:La 1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12334
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" ,ES:LA 1 HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12335
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" ,ES:WARNER HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12336
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" ,ES:#VAMOS HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12338
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" ,ES:MOVISTAR SERIES HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12339
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES:24 HORAS
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12340
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES:DISNEY CHANNEL HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12341
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" ,ES:ACCION HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12342
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" ,ES:IBERALIA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12343
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zXCLxtt/HIST.png" ,ES:HISTORIA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12344
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" ,ES:MOVISTAR DEPORTES FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12345
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCKw8WJ/MSUSP.png" ,ES:MOVISTAR SUSPENSE
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12347
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmvhsK3/M1SD.png" ,ES:DAZN 1 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12348
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" ,ES:Odisea HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12349
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" ,ES:Movistar LaLiga HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12350
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" ,ES:COSMO
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12351
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtfXKdY/CPCOLE.png" ,ES:MOVISTAR DRAMA HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12352
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" ,ES:MOVISTAR DEPORTESHD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12353
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JqW00RS/LIGBAR.png" ,ES:LA LIGA TV BAR 1 [LIVE-EVENT]
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12354
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" ,ES:HOLLYWOODHD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12355
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" ,ES:FOX HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" ,ES:EUROSPORT 1 HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12358
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" ,ES:COMEDY CENTRAL HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12359
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c6ZBdvS/VAMOSD.png" ,ES:#VAMOS HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12360
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" ,ES:AMC BREAK
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12365
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6NHrFp9/BABY.png" ,ES:BABY TV
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12366
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tCR9cqq/MORIG.png" ,ES:MOVISTAR ORIGINALES HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12367
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES:24 Horas HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12368
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MPXTDdd/ATRESS.png" ,ES:A3 Series HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12369
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" ,ES:MOVISTAR LALIGA HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12370
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MRzq0f4/BL.png" ,ES:BLOOMBERG
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12371
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" ,ES:MOVISTAR GOLF HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12372
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" ,ES:CANAL ODISEA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12373
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jvhmDR/CANSUR.png" ,ES:CANAL SUR
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12374
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DVwmC0m/CYM.png" ,ES:AMC CRIME
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12375
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0C4srzC/DCR.png" ,ES:DISCOVERY HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12376
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" ,ES:DMAX
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12377
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GCgcy78/TVGAL.png" ,ES:GALICIA TV
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12379
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" ,ES:Movistar LaLiga
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12380
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" ,ES:MOVISTAR DEPORTES 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12382
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" ,ES:MOVISTAR COMEDIA HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12383
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1m08wJ/MV2.png" ,ES:MOVISTAR SERIE HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12384
+#EXTINF:-1 tvg-logo="https://i.ibb.co/St6Dg05/torole.png" ,ES:TOROLE TV HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12392
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" ,ES:TRECE TV
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12393
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES:TVE 24H
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12394
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" ,ES:Teledeporte HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12395
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" ,ES:MADRID TV HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12396
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,ES:DAZN F1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12397
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rQfb7mP/GOLF.png" ,ES:MOVISTAR GOLF FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12398
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" ,ES:Movistar Deportes HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12399
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hM88rvZ/IBERAL.png" ,ES:IBERALIA TV
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12400
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" ,ES:GOL PLAY
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12401
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" ,ES:Movistar Liga de Campeones HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12404
+#EXTINF:-1 tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" ,ES:MEZZO LIVE HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12405
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" ,ES:Mega HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12406
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5ZQ145/FOXGE.png" ,ES:FOX HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12408
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" ,ES:FDF HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12409
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" ,ES:DKISS
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12410
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" ,ES:Divinity HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12411
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES:DISNEY CHANEL HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12412
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" ,ES:DIVINITY SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12413
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gn6BRm7/PLAYDC.png" ,ES:Disney Jr
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12414
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GM66GvR/DECASA.png" ,ES:CANAL DECASA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12415
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBDCbpg/COSMO.png" ,ES:Cosmo HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12416
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B43ST7J/PCM.png" ,ES:Comedy Central HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12417
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2VVRrS/CACOC.png" ,ES:CANAL COCINA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12418
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" ,ES:CLAN TVE
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12419
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b60s66F/CAZPES.png" ,ES:Caza y Pesca HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12420
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6t4CWZC/CL13.png" ,ES:CALLE 13 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12421
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcGChBx/BIOGRA.png" ,ES:AMC BREAK
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12422
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" ,ES:Be Mad HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12423
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hq2ShB/SET.png" ,ES:AXN MOVIES HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12425
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH7Fr1q/AXN.png" ,ES:AXN HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12426
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bPwWv5J/ARAGTV.png" ,ES:ARAGON TV
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12427
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3f0jppr/AMC.png" ,ES:AMC HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12428
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" ,ES:Nova HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12429
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" ,ES:Boing HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12430
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Sc5ZnD/HOLLYW.png" ,ES:HOLLYWOOD HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12431
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" ,ES:XTRM
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12432
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PT2Rthq/BUENV.png" ,ES:BUEN VIAJE HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12433
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" ,ES:WARNER SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12434
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vq1KGs6/TELMAD.png" ,ES:TELEMADRID HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12435
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" ,ES:TCM HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12436
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" ,ES:SYFY HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12437
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vh9Qz0V/SUNDAN.png" ,ES:SUNDANCE HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12438
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" ,ES:PARAMOUNT NETWORK
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12439
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fmkk9Cj/PANDA.png" ,ES:ENFAMILIA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12440
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdNVpwc/ODISEA.png" ,ES:ODISEA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12441
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mzq3d4t/NICK.png" ,ES:NICKELODEON HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12442
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GdZ5DBF/NICKJR.png" ,ES:NICK JUNIOR
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12443
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" ,ES:NAT GEO WILD HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12444
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cwt5sVk/NATGEO.png" ,ES:NAT GEOGRAPHIC HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12445
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDHQk0m/MTV.png" ,ES:MTV ESPAÑA
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12446
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KhJwh0J/MV1.png" ,ES:MOVISTAR CINE HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12447
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3B8J0Z/DCESP.png" ,ES:MOVISTAR CINE ESPAÑOL HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12448
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES:DISNEY CHANNEL HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12449
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnkd6p2/CPACCI.png" ,ES:MOVISTAR ACCION HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12450
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" ,ES:La Sexta HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12451
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" ,ES:Cuatro HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12452
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" ,ES:Antena 3 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12453
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" ,ES:TVE LA 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12454
+#EXTINF:-1 tvg-logo="1 mes por € 6.99 3 meses por € 14.99 6 meses por € 29.99 1 año por € 49.99" ,ES:TVE LA 1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12455
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQgb6wN/CPCOME.png" ,ES:MOVISTAR COMEDIA HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12457
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SvhnzBP/CHAP1.png" ,ES:MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12458
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" ,ES:MOVISTAR LIGA CAMPEONES HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12459
+#EXTINF:-1 tvg-logo="https://i.ibb.co/28bgY00/MEZOHD.png" ,ES:MEZZO LIVE HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12460
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wdGTnv1/NATGW.png" ,ES:NATIONAL GEO WILD HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12461
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5Wkj3f/SCI-FI.png" ,ES:SYFY HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12462
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkt3RQQ/TCM.png" ,ES:TCM HD HEVC
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12463
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgGVk99/MLIGA.png" ,ES:Movistar LaLiga
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12465
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chT748n/CHAPIO.png" ,ES:Movistar Liga de Campeones
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12468
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" ,ES:Movistar Deportes
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12470
+#EXTINF:-1 tvg-logo="https://i.ibb.co/df6vD3x/ETB1.png" ,ES:ETB 1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12471
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z22CRth/ETB2.png" ,ES:ETB 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12476
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2dc5DnM/ETB-Basque-2022-logo-svg.png" ,ES:ETB Basque
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fvRMsJ/ESP2.png" ,ES:Eurosport 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/247837
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C6NBF0L/ESP.png" ,ES: Eurosport 1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/247838
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="España DAZN" ,DAZN LALIGA  FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60244
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60261
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60262
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60263
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LALIGA HD (H.265)
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60264
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" ,DAZN LA LIGA UHD 4K
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60265
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,DAZN LALIGA 2 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60267
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,DAZN LALIGA 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60268
+#EXTINF:-1 tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" ,DAZN LALIGA 2 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60269
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" ,DAZN LA LIGA 3 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60270
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" ,DAZN LA LIGA 4 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60271
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60349
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60350
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60351
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN F1 HD (50 FPS)
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60352
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjdZQLp/MVF1.png" ,DAZN  F1 [Low Conx]
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60353
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60354
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN FHD 1
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60356
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60357
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60358
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60359
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60361
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60362
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" ,DAZN 4 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60363
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" ,DAZN 4 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/60364
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,ES | DAZN 1 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12361
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,ES | DAZN 2 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12362
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,ES | DAZN 3
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12364
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a2525.png" ,ES | DAZN 4 FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/12363
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" group-title="España TDT" ,ES | LA 1 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236478
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0JKQNsQ/TVE.png" ,ES | La 1 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236479
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" ,ES | LA 2 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236480
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QYC7hys/LA2.png" ,ES | La 2 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236481
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" ,ES | Antena 3 SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236482
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sj872F6/A3.png" ,ES | Antena 3 HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236483
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" ,ES | Cuatro SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236484
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f16y5Tm/C4.png" ,ES | Cuatro HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" ,ES | Telecinco SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236486
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzGrr2M/T5.png" ,ES | Telecinco HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236487
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" ,ES | La Sexta SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236488
+#EXTINF:-1 tvg-logo="https://i.ibb.co/txJwjKJ/SEXTA.png" ,ES | La Sexta HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236489
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES | 24 Horas SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236490
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4c7N4D/24H.png" ,ES | 24 Horas HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236491
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" ,ES | BeMad SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236492
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTZdBCn/BEMAD.png" ,ES | BeMad HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236493
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" ,ES | Divinity SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236494
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSZxkk9/DIVINI.png" ,ES | Divinity HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236495
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" ,ES | DKiss SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236496
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xr17yD/DKISS.png" ,ES | DKiss HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236497
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" ,ES | Dmax SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236498
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Jf08WS/DCRMAX.png" ,ES | Dmax HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236499
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" ,ES | El Toro TV SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236500
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8cgtsb/Eltorotv.png" ,ES | El Toro TV HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236501
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" ,ES | Energy SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236502
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WP34vMP/ENERGY.png" ,ES | Energy HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236503
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" ,ES | FDF SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236504
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V38T0Z2/FDFIC.png" ,ES | FDF HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236505
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" ,ES | Gol Play SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236506
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chCBk8g/GOL.png" ,ES | Gol Play HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236507
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" ,ES | Mega SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236508
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBjhZ26/MEGA.png" ,ES | Mega HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236509
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WWxwTv/NEGOTV.png" ,ES | Negocios SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236510
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WWxwTv/NEGOTV.png" ,ES | Negocios HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236511
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" ,ES | Neox SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236512
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bsDcdxv/NEOX.png" ,ES | Neox HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236513
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" ,ES | Nova SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236514
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgS20VF/NOVA.png" ,ES | Nova HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236515
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" ,ES | Teledeporte SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236516
+#EXTINF:-1 tvg-logo="https://i.ibb.co/THVDvRY/TDEP.png" ,ES | Teledeporte HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236517
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" ,ES | TEN SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236518
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmYmLS2/TEN.png" ,ES | TEN HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236519
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" ,ES | Trece HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236520
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PGGhkG/13TV.png" ,ES | Trece HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236521
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES | DISNEY CHANNEL SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236530
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YDMdk8/DCH.png" ,ES | DISNEY CHANNEL FHD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236531
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" ,ES | BOING SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236532
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rwwGKqr/BOING.png" ,ES | BOING HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236533
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" ,ES | CLAN TVE SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236534
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vv5f9hL/CLANTV.png" ,ES | CLAN TVE HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236535
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" ,ES | PARAMOUNT NETWORK SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236536
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxkQ6w0/PARCH.png" ,ES | PARAMOUNT NETWORK HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236537
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" ,ES | REAL MADRID TV SD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236538
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdTVBBd/REALM.png" ,ES | REAL MADRID TV HD
+http://premiumultra.xyz:8080/icardMegar/ypd5X3Xyus/236539
