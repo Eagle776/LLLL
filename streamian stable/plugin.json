@@ -1,0 +1,14 @@
+{
+	"description": "<p>Miles de Animes, Caricaturas, IPTV, Peliculas, Novelas, Series y Mucho Mas en un Solo Lugar</p>",
+	"author": "ElSuacht™",
+	"homepage": "https://youtube.com/ElSuacht",
+	"title": "PlayStr3am+",
+	"synopsis": "Entretenimiento sin Limites ni Iterrumpciones",
+	"version": "1.0",
+        "file": "streamian.js",
+	"m7Version": "7.0.0",
+	"type": "ecmascript",
+	"id": "PlayStr3am+",
+	"icon": "images/logo.png",
+	"category": "video"
+}
