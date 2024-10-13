@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZCz6RpAlndiKQQmjPohxfAQyJSOV0GaSd_ThITknniRvVTjftvXmDkYffnPnmyCo4.png" group-title="" ,NEWS | NTN24
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX-hfmKCvMaEl247Lqb55PEk/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbboWMcZJwasaJ1_fZQ2D2-3GBlTawnBcGah8Nh5PB2CEE07ZB-BGSgtxgBn_Ex2N4.png" ,NEWS | CNN
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX9QlMXyiOBkYbnmGuPAAgww/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYr8yqnVgk4j0N9bWxD2rNXvSfVpnIQH8EJ6irOGLL1sFWBJTnjM16Ouy8nZHycFX0.png" ,NEWS | Cable Noticias
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX970Y93oM6wDP3WX9TaezP0/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_NBNhn9wavYNpIf4uXGvD4XPztzuyLRCJDwhPiiYm_sZ6hAYb" ,NEWS | DW
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_cjCPjZ4pt_vnsjJ9h94q4/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjWUi8lMW3TsG2FlMnM59O4HY9xWEP5MP1Gv7xaa1fbbC_exOND5SF2RUM4R8ZhZ_g.png" ,MX | CNN En español
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_yBa1cZn13x4pfkt5DELII/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBisrzmK7faDd1HHoC71oeUgPrX2CARywzwnYpb-KDrJYXIdW0M7rlZf2X8P0UMSnxw.png" ,MX | CNN Internacional
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX9sPwm68ITGF9O1kjCMZUSz/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhAsIPUFGX4NlFHSPyKFkzld1Wkqw_8YjDGLMFJq-5UAN7A1rN1asi7WlnyEwJ6lRY.jpg" ,NEWS | BBC World
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX8n685dlOdP_Jwgd3qlG0HT/ts

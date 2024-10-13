@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLR8VaIB4BlBziqula80CYLRx8EHnsaUJGfGdq2aDVhIJeP4KM" group-title="" ,US | Showtime
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX9CTLdikV0c5nwua9i6YBhP/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ8GbShSNmkQjv964mVAHwasuae4bGboqBcSOO-WW5_MxYnPWTrgnSippEaGmOYyNk.jpg" ,US | Showtime 2
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX94bT7bJStbFsdUVWY_zV9R/ts
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/s6zpxQ5TATQMlLvd2sdhgriPfk8pZss94e8XK3H5b0xxXUGaHI9aS9kJo5oklb18cT_y_JBIKr_JjbjC1oCRHlljEfV7BltMoNHdzxlzkVvA3pz7TQxdpRV8" ,US | Showtime Extreme
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX-iazxHi5xhDqgtKYv-cONC/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLR8VaIB4BlBziqula80CYLRx8EHnsaUJGfGdq2aDVhIJeP4KM" ,US | Showtime Latino
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_TgsRNfHuy2WW8-dS8ZR1E/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYJVwbdnfs-U8xT4U_HZ1dX4jilqNYyzie8CRbxAZ63uHp0UmLHCnwep-pGfDoLckc.png" ,US | Showtime Extreme *
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX-de-qQ4ML0HaQPD5IMknmR/ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLR8VaIB4BlBziqula80CYLRx8EHnsaUJGfGdq2aDVhIJeP4KM" ,US | Showtime HD
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_3vnyUUNkcsBeCnwPrOM_W/ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/Showtime_West-logo-4D2CF9A40A-seeklogo.com.gif" ,US | Showtime W
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_qEoe4Auyi5u8BxB0dVV13/ts

@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/db08a9c67cedc625f0788dd9b1d93b4b.png" group-title="" ,PA | Canal Telemetro 13 SD
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_-qfANPleD5hHUG3UHWvuQ/ts
+#EXTINF:-1 tvg-logo="" ,PA | RPC 4 HD
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX80DCqWks2l5WGpGiLCj2ZS/ts
+#EXTINF:-1 tvg-logo="" ,PA | TELEMETRO 13 SD
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX-gX1B1L6YFuTTyhtsTfXYk/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/t82rqQBKGq8qcltT5IvotMmqSB_B1_Mu44cGyATxvdbQVkx8isamd9NQVizIh0ktlis4zyy6-BfplOoTpHTUak7y168mLfWE7ZwaxSCLlFbFygVZe-quKa1sUr5x3J__J7uMsBhXv_1bKKWtiwIyq1EmezsOYik6TT_t8oEWmKc6wnKxZttsSy4iq6t1wpakbux2m8LjpiZKMFtEe5R21A.jpg" ,PA | TVN
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX94GSlt0ukTK8DwGM49db9H/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/t6s7xn0v30CDcGEVlgq8LnZWC9zuKrMmHKrF4l5RqgoMVu9msXMZYGoJw5SduzD2.png" ,PA | Cable Onda sports
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX-UCfYI75P_yniIDoA8qokB/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/t82rqQBKGq8qcltT5IvotMmqSB_B1_Mu44cGyATxvdbQVkx8isamd9NQVizIh0ktlis4zyy6-BfplOoTpHTUak7y168mLfWE7ZwaxSCLlFbFygVZe-quKa1sUr5x3J__J7uMsBhXv_1bKKWtiwIyq1EmezsOYik6TT_t8oEWmKc6wnKxZttsSy4iq6t1wpakbux2m8LjpiZKMFtEe5R21A.jpg" ,PA | TV MAX CANAL 9
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX-JQFD8fUXg2J_zm3myYzqL/ts

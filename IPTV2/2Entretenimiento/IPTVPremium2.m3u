@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png" group-title="Premium",Canales 24Hrs
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CANALES%2024H.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales Full HD
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CANALES%20FHD.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales HD
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CANALES%20HD.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales Latinos
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CANALES%20LATINOS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales SD
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CANALES%20SD%20(Poco%20Internet).m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Pack Show Time
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/PACK%20SHOWTIME.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Pack Starz
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/PACK%20STARZ.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Pluto TV Latino
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/PLUTOTV%20-%20LATINO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Telemundo
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/TELEMUNDO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Unimas
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/UNIMAS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Univision
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/UNIVISION.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png" group-title="Entretenimiento",Cine
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CINE.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Cinema PPV
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/CINEMA%20PPV.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Conciertos
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/CONCIERTOS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Deportes
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/DEPORTES.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Dj Video Mix
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/DJ%20VIDEO%20MIX.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Entretenimiento
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/ENTRETENIMIENTO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Galavision
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/GALAVISION.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",La Academia
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/LA%20ACADEMIA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Mundo y Cultura
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/MUNDO%20%26%20CULTURA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Musica
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/MUSICA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Noticias del Mundo
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/NOTICIAS%20DEL%20MUNDO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Religion
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/entretenimiento/RELIGION.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Zona Kids
+https://github.com/Eagle776/LLLL/raw/main/IPTV2/2Entretenimiento/premium/ZONA%20KIDS.m3u
