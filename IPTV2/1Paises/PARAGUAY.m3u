@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/98d5ea822193408d670c9a637bc2e7e6.png" group-title="" ,Paraguay | La Tele
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX_NU4XDZtAUCNM_KPV_9bJ4/ts
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/fb71d364f5b2b51fec8a447d5f2c3f48.png" ,Paraguay | Telefuturo
+http://offshore.lat:8080/play/kiy8hLIrXtfSlSugYGTGkS2S1Omo2YZ3IqrXWG2fSX90R3ZD2UtXRHcz70Y3wIpS/ts

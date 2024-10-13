@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png" group-title="Premium",Canales 24Hrs
+https://archive.org/download/canales-24-h_202410/CANALES%2024H.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales Full HD
+https://archive.org/download/canales-fhd_202410/CANALES%20FHD.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales HD
+https://archive.org/download/canales-hd_202410/CANALES%20HD.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales Latinos
+https://archive.org/download/canales-latinos_202410/CANALES%20LATINOS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Canales SD
+https://archive.org/download/canales-sd-poco-internet_202410/CANALES%20SD%20%28Poco%20Internet%29.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Pack Show Time
+https://archive.org/download/pack-showtime_202410/PACK%20SHOWTIME.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Pack Starz
+https://archive.org/download/pack-starz_202410/PACK%20STARZ.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Pluto TV Latino
+https://archive.org/download/plutotv-latino_202410/PLUTOTV%20-%20LATINO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Telemundo
+https://archive.org/download/telemundo_202410/TELEMUNDO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Unimas
+https://archive.org/download/unimas_202410/UNIMAS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Univision
+https://archive.org/download/univision_202410/UNIVISION.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png" group-title="Entretenimiento",Cine
+https://archive.org/download/cine_20241004/CINE.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Cinema PPV
+https://archive.org/download/cinema-ppv_202410/CINEMA%20PPV.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Conciertos
+https://archive.org/download/conciertos_202410/CONCIERTOS.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Deportes
+https://archive.org/download/deportes_202410/DEPORTES.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Dj Video Mix
+https://archive.org/download/dj-video-mix_202410/DJ%20VIDEO%20MIX.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Entretenimiento
+https://archive.org/download/entretenimiento_202410/ENTRETENIMIENTO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Galavision
+https://archive.org/download/galavision_202410/GALAVISION.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",La Academia
+https://archive.org/download/la-academia_202410/LA%20ACADEMIA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Mundo y Cultura
+https://archive.org/download/mundo-cultura_202410/MUNDO%20%26%20CULTURA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Musica
+https://archive.org/download/musica_202410/MUSICA.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Noticias del Mundo
+https://archive.org/download/noticias-del-mundo_202410/NOTICIAS%20DEL%20MUNDO.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Religion
+https://archive.org/download/religion_202410/RELIGION.m3u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PxnGJ52/Premium-1.png",Zona Kids
+https://archive.org/download/zona-kids_202410/ZONA%20KIDS.m3u
