@@ -1,0 +1,1131 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" ,EL SALVADOR CANAL 21
+http://nino4play.com:25461/JULIA/ARAUJO/3308
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/qw1JFH-4_c8fLiNB7tqKZ3DwAcCZRJWFYOzWTB89-3UCJhLrQRblAj_U9PgolOhcbxUzOuFQgad3QDEEUs3tmZu49cdRL6xWvdvMitzhMlVXtuAaNOXKQnw=w1200-h630-p-k-no-nu" ,13 MAX HD
+http://nino4play.com:25461/JULIA/ARAUJO/81
+#EXTINF:-1 tvg-logo="https://www.lequipe.fr/_medias/img-photo-jpg/les-canadiens-de-montreal-partent-a-la-conquete-d-un-25e-titre-a-partir-de-lundi-e-bolte-usa-today-sports-reuters/1500000001508868/0:0,1476:1476-828-828-75/b2a0c" ,✰ CA  TVA SPORTS FHD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/362
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSUe9jIzIfdb0yoCPlzMWThMyTg7uBO2GS_H7mF6wo=s900-c-k-c0x00ffffff-no-rj",24 HORAS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13662
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-lfi9XmpdoJBQhiyrgO_ZUx9RjXucx_i7pvw=s900-c-k-c0xffffffff-no-rj-mo" ,24/7 HD
+http://nino4play.com:25461/JULIA/ARAUJO/80
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/A%26E_Mundo.png/revision/latest/scale-to-width-down/200?cb=20191216020018&path-prefix=es" ,A&E HD
+http://nino4play.com:25461/JULIA/ARAUJO/112
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/1876/brand.gif?itok=mTGdw22i" ,A&E HD DUAL AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/1575
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/baec2799c0d7716430173e35e9de3a57.png" ,A24 HD
+http://nino4play.com:25461/JULIA/ARAUJO/79
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f6c6ee044e5ba748f2e14c09fc1c14c7.png" ,ADN 40
+http://nino4play.com:25461/JULIA/ARAUJO/3294
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ea628af489b5a82f0c7b297d12443e3a.png" ,AMC HD D.AUDIO ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/113
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxBv4fc1doL1igo7pU1-0jxbbAseiy4oAoQPiVtpC7WXOQ2RMP8lCpGZKhoIY_qaAB19Q&usqp=CAU" ,AMERICA HD UNA HORA MENOS
+http://nino4play.com:25461/JULIA/ARAUJO/2088
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/fe314818dc841db3c5f0482aa44d9030.png" ,AMERICA SD ( ARG )
+http://nino4play.com:25461/JULIA/ARAUJO/2917
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/eabdcda490df5225d2a7c1643fd6e58d.png",AMERICA TV FHD
+http://nino4play.com:25461/JULIA/ARAUJO/8159
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/0c1b4d6b7e9f7578bd89cc1ed712cdb1.jpg" ,AMX NOTICIAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/15057
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/putOMNDJTIxPpGHSnsBCorLHIigjZvHYxEkM9B31L-PKFXNkzmFVYhFSE1v0nQ2j0g" ,ANIMAL PLANET SD
+http://nino4play.com:25461/JULIA/ARAUJO/135
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OM8hcU4kAv-5GusId7XhxEawibfWAlbXicM8wjH9yLPTrulmq1BiIObsylXQte9bj3g" ,ANIMAL PLANET SUR FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13800
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d00f58766b3922989153a5a784be38e2.png",ANTENA 3 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14157
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AMLnZu9HD8qEfcn_LfGAmHEe6iibfH3NcsZj2udrUcgENA=s900-c-k-c0x00ffffff-no-rj" ,ANTENA 3 HD
+http://nino4play.com:25461/JULIA/ARAUJO/376
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/3c/Antena3internacional2017.png/revision/latest/scale-to-width-down/200?cb=20190223223125&path-prefix=es" ,ANTENA 3 INT HD
+http://nino4play.com:25461/JULIA/ARAUJO/14689
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4a7c44f8501ad5f03ad8fdb28fba3cdf.png" ,ANTENA 3 SD
+http://nino4play.com:25461/JULIA/ARAUJO/3562
+#EXTINF:-1 tvg-logo="https://tvdirecto.online/wp-content/uploads/2022/12/logo-a3s.webp" ,ATRESERIE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14912
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/aa11a1f2d26b957853e4b4189137d0f4.png" ,ATRESERIE FHD INT
+http://nino4play.com:25461/JULIA/ARAUJO/3563
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/8b160b9a08ab067ff0f310bef426b37d.jpg" ,ATV + HD
+http://nino4play.com:25461/JULIA/ARAUJO/381
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/7a19fb8ac96203d33c3d81300cccc7c0.png" ,AXN HD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/13765
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4ef201d1aa1dee7a4bad6525ec1a9aa2.jpeg" ,AZTECA 7 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/11515
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/fe4618777c392e3d2cedc80b3688b4b5.png" ,AZTECA 7 HD
+http://nino4play.com:25461/JULIA/ARAUJO/34
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/635d8aa9ec8f53a2156dccbd9b66e863.jpg" ,AZTECA 7 SD
+http://nino4play.com:25461/JULIA/ARAUJO/33
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e3ac7e5d55d5a5f4f7900d80e1b3886e.jpg" ,AZTECA CINEMA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/43
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5fb0dc7a15dd0d04377d598492e22dc0.jpg" ,AZTECA CORAZON HD
+http://nino4play.com:25461/JULIA/ARAUJO/790
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d132c49bf22dca4a5ab9a502ecab8ab1.jpg" ,AZTECA CORAZON HD
+http://nino4play.com:25461/JULIA/ARAUJO/3030
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/9/98/Uno.png/revision/latest?cb=20200323172904&path-prefix=es" ,AZTECA UNO FHD
+http://nino4play.com:25461/JULIA/ARAUJO/32
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRUaFzXNhcFZCTl826vkTVFuC_LHs9poxfD6AME=s900-c-k-c0x00ffffff-no-rj" ,AZTECA UNO HD
+http://nino4play.com:25461/JULIA/ARAUJO/11516
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91hqxhfZ69UhwWWzNQuZKg-nKnFScByQhlVMCJMz4_prQimvFay2bAc8OnBf-0Ak0NQI&usqp=CAU" ,AZTECA UNO HD - 1 HORA
+http://nino4play.com:25461/JULIA/ARAUJO/14515
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e37800c453c5d536ed5801341ba21bf5.jpg" ,AZTECA UNO SD
+http://nino4play.com:25461/JULIA/ARAUJO/31
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/b5-GuGM5amAAszLlpemvfjsMv8SthDDwDOPxZGZMg0AE447xugLssYT50v_jcw9Vski10qqI=s900-c-k-c0x00ffffff-no-rj" ,BABY TV
+http://nino4play.com:25461/JULIA/ARAUJO/94
+#EXTINF:-1 tvg-logo="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844b757ede79af15211ca9adba" ,BANDAMAX HD
+http://nino4play.com:25461/JULIA/ARAUJO/14925
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/05f1c1d3b1b218d655a2318e3477800b.jpg" ,BEIN SPORTS ESP FHD
+http://nino4play.com:25461/JULIA/ARAUJO/4635
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" ,BEIN SPORTS ESP HD
+http://nino4play.com:25461/JULIA/ARAUJO/153
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e663191aee6968f0b4b10af85ac23ab4.jpg" ,BLOOMBERG HD  ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/11651
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/eaac9f0be3407becaef228abdaa9bf4e.jpg" ,BRASIL  COMBATE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/1912
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/888/829/png-clipart-espn-brasil-logo-espn-films-espn-inc-espn-brasil-logo-thumbnail.png" ,BRASIL  ESPN 1 HD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/3746
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/1398/brand.gif?itok=qK15mOWo" ,BRASIL  ESPN 2 HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/3538
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4d0535a8e87034a9933ef764d3da0cb0.png" ,BRASIL  ESPN 3 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11681
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e95e7d3aa9983997849bacf2cf864782.jpg" ,BRASIL ESPN 4 HD
+http://nino4play.com:25461/JULIA/ARAUJO/14256
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/bfc0acfd567b942647ff2b74e91ddb03.png" ,BRASIL PREMIERE HD
+http://nino4play.com:25461/JULIA/ARAUJO/765
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102012/untitled-1_15.png?itok=r79vmWZd" ,BRASIL SPORTV 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/431
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5efe667c2f82deedfeaad739bd064bf1.png" ,BRASIL SPORTV 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/836
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b4bf88ec0d1f6c163c21f15a5089f57f.png" ,BRASIL SPORTV 3 HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/11682
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2838023a778dfaecdc212708f721b788.png" ,C5N FHD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/8160
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ad97245439d4846f4e8346a1dc6ab604.jpeg" ,CA  CBC NEWS HD
+http://nino4play.com:25461/JULIA/ARAUJO/2648
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/18adc1c0c774231139070cd5e0291926.jpg" ,CA  ICI RDI HD
+http://nino4play.com:25461/JULIA/ARAUJO/873
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Ici_Tele_logo.png/revision/latest/scale-to-width-down/250?cb=20131005192500" ,CA  ICI TELE FHD ( MONTREAL )
+http://nino4play.com:25461/JULIA/ARAUJO/6249
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/fb4b914dbd57c92d442c6782f8dfdcc0.jpg" ,CA  ICI TELE HD ( MONTREAL )
+http://nino4play.com:25461/JULIA/ARAUJO/11759
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/c1e43923bddd17403c6ba1fdfe467112.jpg" ,CA  ICI TELE HD ( QUEBEC )
+http://nino4play.com:25461/JULIA/ARAUJO/1919
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/930222da5dd8bffa5f1281728485d7d9.jpg" ,CA  LCN FHD
+http://nino4play.com:25461/JULIA/ARAUJO/2990
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/930222da5dd8bffa5f1281728485d7d9.png" ,CA  LCN HD
+http://nino4play.com:25461/JULIA/ARAUJO/110
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/INxtg0k-Om0lBkx3l0NrHZSNjSf97TXUyQTs54h8-2sKrq1BkLkwnUtoctz9CYhFHQ" ,CA  T.V.A. HD
+http://nino4play.com:25461/JULIA/ARAUJO/109
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4e71208d0e94c4d3cb09fba0a4ca945b.png" ,CA  TELE QUEBEC HD
+http://nino4play.com:25461/JULIA/ARAUJO/1584
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR80UtKAGegLFmuYwk7EdUKZ7fB76Z2gg8OtU2A3sIrVYu8b72GdmEzTN--JNePS9AQuVQ&usqp=CAU" ,CA  TSN 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11742
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a1172362ca55bd588401a246b8d29a90.png" ,CA  TSN 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/14828
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a060e2a77a17c5f3d0116eec98cf9e7a.jpg" ,CA  TVA SPORTS 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11680
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/420bf3d974670fd018f813d4bf76da38.png" ,CA  TVA SPORTS 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/6042
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGWUomxxpDBcsPqj3u56UYdaQ9N9IAGZfHeC1xPGVYKg&s" ,CA SPORTSNET NEW YORK  HD
+http://nino4play.com:25461/JULIA/ARAUJO/14908
+#EXTINF:-1 tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_SportsnetOne.png" ,CA SPORTSNET ONE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14826
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9051b47e85d4bed9ee40dd0a4606eafc.png" ,CA SPORTSNET ONTARIO HD
+http://nino4play.com:25461/JULIA/ARAUJO/14741
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/082fdfd50b4758999e7f4f9ae554c3de.jpg" ,CABLE NOTICIAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/54
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/23583263_640x640" ,CALI TV
+http://nino4play.com:25461/JULIA/ARAUJO/1582
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f9c332bbca83b84ed1ced5c0e679e06e.png" ,CANAL 10 HD
+http://nino4play.com:25461/JULIA/ARAUJO/3358
+#EXTINF:-1 tvg-logo="https://leonardoveralopez.files.wordpress.com/2018/04/logo-canal-13rr.jpg?w=640" ,CANAL 13 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/67
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.tvenserio.com/wp-content/uploads/2019/04/canal13.png?resize=254%2C254&ssl=1" ,CANAL 13 HD
+http://nino4play.com:25461/JULIA/ARAUJO/66
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee85ab4e2a630592468409188f26" ,CANAL 13 HD.
+http://nino4play.com:25461/JULIA/ARAUJO/13878
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b81b305ef7a48c400206916e5a85c800.png" ,CANAL 13 SD
+http://nino4play.com:25461/JULIA/ARAUJO/14039
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/70eac56bcb38c6f886c2ce8a8c94bf15.jpg" ,CANAL 14 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14475
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/bf8b3a9be7485fadc33f5f48d6bf4aa3.png" ,CANAL 26 HD
+http://nino4play.com:25461/JULIA/ARAUJO/82
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4d/Logo_cn5.png/revision/latest?cb=20150519224125&path-prefix=es" ,CANAL 5 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/38
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/02ef982e8dcc257787e5441a8a82a6a9.png" ,CANAL 5 HD
+http://nino4play.com:25461/JULIA/ARAUJO/14866
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9e2eee1adb542e383d63c740f0b9a90b.jpg" ,CANAL 5 SD
+http://nino4play.com:25461/JULIA/ARAUJO/37
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YbQiMhJJqEXtgBCu7S-AnpYn2jlK8kGHHJ23i5aUAfep71WWTBGb8DbUmkUUnRX4D-oDatdzTA=s900-c-k-c0x00ffffff-no-rj" ,CANAL 7 HD ( NEUQUEN )
+http://nino4play.com:25461/JULIA/ARAUJO/11723
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TNncql_yVJS7qIdyB9Jclm8aCpKmhtcMUT7gtQa7imaXA13MKVGP-w0lLYEvF488c8TYe2YHEg=s900-c-k-c0x00ffffff-no-rj" ,CANAL 8 HD ( MAR DEL PLATA )
+http://nino4play.com:25461/JULIA/ARAUJO/14727
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/002f93898b52417e1afcff1124c33fa3.png" ,CANAL 9 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/40
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ1uIxB2HJoa_GXZDWBKg4NGkM0dcNYrGWpQCnc=s900-c-k-c0x00ffffff-no-rj" ,CANAL 9 SD
+http://nino4play.com:25461/JULIA/ARAUJO/14867
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/af65b3dd35de98f43a031478db9afefa.png" ,CANAL CAPITAL HD
+http://nino4play.com:25461/JULIA/ARAUJO/10847
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/81d8c0d029ec6dd2a0d01da00daae94e.png" ,CANAL INFANTIL FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14028
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/87f092e6dc7ece978e1f79788059ec24.png" ,CARACOL HD 2
+http://nino4play.com:25461/JULIA/ARAUJO/49
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/M7YKh7nuwvf1Gb3j8HcW0pk_8HzQMLKwFbi4ANz8PDalFzGxxolYSNz91DGKBrL4zX8" ,CARACOL NOTICIAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/1579
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/57a4ebf2812c18923eb764516df4d2dc.jpg" ,CARTOON NETWORK HD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/96
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" ,CARTOONITO HD
+http://nino4play.com:25461/JULIA/ARAUJO/95
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e159b1d7bc4720679d1c686ddd41d025.png" ,CHILEVISION  NOTICIAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/13780
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/70432780716d2f5a19141c2f2899688b.png" ,CHILEVISION HD
+http://nino4play.com:25461/JULIA/ARAUJO/68
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jiOvuTkVZBifj69ri3GdrBkQjAazC6vZz-C_qFtZKFH2y7wTB7_3p_PQb4HqRw0bcw" ,CHILEVISION SD
+http://nino4play.com:25461/JULIA/ARAUJO/13906
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPBtkTTszAuAlZnqrSTbVOn4XlpUQ2lcAcB_wghEQ=s900-c-k-c0x00ffffff-no-rj" ,CINE LATINO SD
+http://nino4play.com:25461/JULIA/ARAUJO/14351
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a659686601c2964ae90e549d26db53b6.png" ,CINECANAL FHD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/13801
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Cinecanal_HD_%282010-2013%29.png/revision/latest/scale-to-width-down/250?cb=20160925225749" ,CINECANAL HD
+http://nino4play.com:25461/JULIA/ARAUJO/1057
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/84aad054f8abdd7b063f5df79c7a3050.png" ,CINEMAX HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/6092
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2nfc_1SvdbSUEq0UkrmDFC2LdWThlBX18IzHP5kCtrMS-cEfXOfMpT0cq3X-VesJnII" ,CLASICO TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/3698
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6cc5ce54d26aca551878cbaede75e2ac.png" ,CNN CHILE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14909
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/CNN_LATINO.svg" ,CNN ESPANOL HD
+http://nino4play.com:25461/JULIA/ARAUJO/382
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/8f061eac5b65cb8cccd45e7ff6e4a0bf.jpg" ,COMEDY CENTRAL FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13802
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/bcee1e6bec8be6139595dc5d68983ad7.png" ,CUATRO FHD
+http://nino4play.com:25461/JULIA/ARAUJO/3571
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7M5NErJkcuT2_6aSHYMKYQ9jm_IwAGBCcw&s" ,CUATRO HD
+http://nino4play.com:25461/JULIA/ARAUJO/15069
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/259388e663be32df7f9fc94d5f719f59.jpg" ,DAZN 1 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14366
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2022/08/DAZN-Laliga-cuarta-jornada-220x192.jpg?quality=40" ,DAZN 1 LA LIGA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14155
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5a1d935d3e8c7ddce797cbe0cf2b3da1.png" ,DAZN FORMULA 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/3321
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/be193183a67ce93f86c4950682ea6464.png" ,DE PELICULA CLASICO HD
+http://nino4play.com:25461/JULIA/ARAUJO/3032
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d5ecd53d225b98a2ebe16cfca90afb6e.jpg" ,DE PELICULA PLUS HD
+http://nino4play.com:25461/JULIA/ARAUJO/3031
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/023370239f0896281f3cb31c674cebd8.jpg" ,DHE HD
+http://nino4play.com:25461/JULIA/ARAUJO/14162
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/937a6d4628310fd48cdd66b7ef434a9d.jpg" ,DISCOVERY CHANNEL HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/136
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/abe0cc5a619dfab3076bfa095eb68d67.jpg" ,DISCOVERY H&H HD
+http://nino4play.com:25461/JULIA/ARAUJO/139
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b59c162c35b231fe4d7300c38b0c182a.jpg" ,DISCOVERY ID HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/141
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/57c4c14859e08cca979ea6cfe2060efb.jpg" ,DISCOVERY KIDS HD
+http://nino4play.com:25461/JULIA/ARAUJO/14029
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest?cb=20110415120454" ,DISCOVERY SCIENCE HD
+http://nino4play.com:25461/JULIA/ARAUJO/142
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c5f5ac5074e7b9b42bea8bae3ad420ef.png" ,DISCOVERY THEATER HD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/143
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9ddbef6c32d9fa8ffcb07a961f943c36.png" ,DISCOVERY TURBO HD
+http://nino4play.com:25461/JULIA/ARAUJO/145
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6fba8be0cbd6af7e9f6e11ee4dde06d6.png" ,DISCOVERY WORLD FHD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/13803
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f2127717efa9b188d759bce96acb99a1.jpg" ,DISNEY CHANNEL HD
+http://nino4play.com:25461/JULIA/ARAUJO/97
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5eb5ac9515e7e4f7961c944bcea" ,DISNEY JR HD
+http://nino4play.com:25461/JULIA/ARAUJO/887
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS12kbG9PRaH_NBit1-uBqRNqdcKUxWapawfeRmkvIDTz3z5bTZenoAlxaJT7sw_rPhft8&usqp=CAU" ,DISTRITO COMEDIA HD
+http://nino4play.com:25461/JULIA/ARAUJO/10535
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/9647e8e52da64993e8b24d14a59e5ce5.png" ,DW ESP HD
+http://nino4play.com:25461/JULIA/ARAUJO/383
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kCze-2FcwlKeCliJQaw9ZEZkkVAM9EopOgFvQnFrlr6-I4wWu1MENXIEmNGGvGol6hc" ,E! ENTERTAIMENT FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14349
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSm0W4Hkk29g0BvzGj9Dda0WL9VJfH4Kr9WjApmZ5B8wQl3hFmg",ECUADOR ECUAVISA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/370
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iv1XIrBSiFFrT5zJGGlk4W7NPUbsPzaZ1PhN5uxpVdBGVvSbeMB0-5VehZsolA3NRPSYfaDsLZA=s900-c-k-c0x00ffffff-no-rj" ,ECUADOR ECUAVISA HD
+http://nino4play.com:25461/JULIA/ARAUJO/11593
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rMCYmwKmYHLmXiljjkZfUCHrGtg-jhgS17__IEo9244edjjxKl_RRb2G6RlG8RbfEO1qRMG3NO8=s900-c-k-c0x00ffffff-no-rj" ,ECUADOR ECUAVISA SD
+http://nino4play.com:25461/JULIA/ARAUJO/15090
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Rts_2005.png/revision/latest/scale-to-width-down/200?cb=20170426172209" ,ECUADOR RTS SD
+http://nino4play.com:25461/JULIA/ARAUJO/10971
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6f77070977257a4f7e312826613e85e8.png" ,ECUADOR TC HD
+http://nino4play.com:25461/JULIA/ARAUJO/15068
+#EXTINF:-1 tvg-logo="https://radiosecuador.sfo2.cdn.digitaloceanspaces.com/tvenvivoecuador/canal/tc.png?mtime=20190825175049&focal=none" ,ECUADOR TC SD   ec
+http://nino4play.com:25461/JULIA/ARAUJO/8396
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b134c8e730f03944ccb0a1a7fc93008e.png" ,ECUADOR TELEAMAZONAS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/3344
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/h1jndjZrRYD3NaOJ705jsWaxC6cp1fZQPm81Ti8x_fxVgrxcMBn6PQ72tM3KEPVU4ywdzS5BRco=s900-c-k-c0x00ffffff-no-rj" ,ECUADOR TELEAMAZONAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/15012
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/529f9addc1936733abf148c2ca6f825a.jpg" ,ECUADOR TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/10972
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmVjZGYuY2FuYWxkZWxmdXRib2xfaWNvbl8xNTkwMDMxMTYxXzA1MQ/icon.png?w=&fakeurl=1" ,EL CANAL DEL FUTBOL HD ( ECUADOR )
+http://nino4play.com:25461/JULIA/ARAUJO/11971
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" ,EL GOURMET HD
+http://nino4play.com:25461/JULIA/ARAUJO/151
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1db22f6fd165d2ba7dccc51668f0dbd3.png" ,EL NUEVE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/85
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/42b2709d8dc3294e81c716c6a2959152.jpg" ,EL NUEVE HD
+http://nino4play.com:25461/JULIA/ARAUJO/87
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NYeRvpSxP2NLcfjwikdU6IxOC-FnPdgRbYcgEEiTFxrZcbXAKaBahhwmD-BIGDAxm9s" ,EL PAIS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14413
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/Canal_19_El_Salvador.png/revision/latest/scale-to-width-down/340?cb=20170623195922" ,EL SALVADOR  CANAL 19
+http://nino4play.com:25461/JULIA/ARAUJO/3307
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJz3gIdVp4zZeT7wAgmIUgzLo2-NuV8MAZAZ4p3okQ=s900-c-k-c0xffffffff-no-rj-mo" ,EL SALVADOR CANAL 12
+http://nino4play.com:25461/JULIA/ARAUJO/3306
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/f900dc416b125c163dcb71e4185dd277.png" ,EL SALVADOR CANAL 2
+http://nino4play.com:25461/JULIA/ARAUJO/3355
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0xWfpmu4UHGGVvj1powAH_U-IXnydembTGg&usqp=CAU" ,EL SALVADOR CANAL 35 TCS + HD
+http://nino4play.com:25461/JULIA/ARAUJO/3357
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/cffb436be38d78c6b6a2fc6c9cef7545.png" ,EL SALVADOR CANAL 4 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11972
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ac08e6ef18f4ae1c6d1de9671588455a.jpg" ,EL SALVADOR CANAL C 10 HD
+http://nino4play.com:25461/JULIA/ARAUJO/3356
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d1f927cc324fc4b4a33ad55848ce4182.jpg" ,EL SALVADOR TUTV CANAL 11HD
+http://nino4play.com:25461/JULIA/ARAUJO/3309
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/THm4FcyIghHNbAuUNY2MCrruUajFRnPdE_Z53Gps4yAJGBjZfnDsQgRGiW87D8P1LqMi" ,EL TRECE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/8398
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a7875399780c492a85335be5ad82ed15.png" ,EL TRECE HD
+http://nino4play.com:25461/JULIA/ARAUJO/84
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f68d4b9226872243221c6e33e76da045.jpg" ,ESPN 1 FHD ( PERU )
+http://nino4play.com:25461/JULIA/ARAUJO/13843
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9ea102e4df5e33f4e656877c064d883a.jpg" ,ESPN 1 HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/14201
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_242.png?itok=nRWq5scp" ,ESPN 1 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/230
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAdbPSPOKUytrt0406m_nYga7oSv6lQ-Q7HNbzag_rIgHrXcTKvpsofO3gO_R8sgwLNLQ&usqp=CAU" ,ESPN 2 HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/6303
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/98d20880f65aa650d9649538ff8a8a1b.jpg" ,ESPN 2 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/6593
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/eb50b3b737aad537b935da3087511ad8.png" ,ESPN 2 HD ( PERU )
+http://nino4play.com:25461/JULIA/ARAUJO/229
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/dc2dee2e115f90420ec96d3518694951.jpg" ,ESPN 3 HD
+http://nino4play.com:25461/JULIA/ARAUJO/13971
+#EXTINF:-1 tvg-logo="https://d21gd0ap5v1ndt.cloudfront.net/web05/img.php?src=/images/news_imported/espn3.png&site=mside&crop" ,ESPN 3 HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/167
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/95ab37d4f6f33dd70da525dff279e573.png" ,ESPN 3 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/13807
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a7f1c9fa8870a6661141de72ea23b44f.jpg" ,ESPN 4 HD
+http://nino4play.com:25461/JULIA/ARAUJO/14883
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/programacao/images/d/dc/ESPN_4_Logo_tipo.jpg/revision/latest?cb=20220117191627&path-prefix=pt-br" ,ESPN 4 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/14049
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ece142362714501ede8bc19d19aad25f.png" ,ESPN 5 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14048
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ab0179f422411d4c76bb1322b8a8b21a.png" ,ESPN 5 FHD ( MEXICO )  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/168
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/49d362b1005c3d87b6a352f088a0c659.jpg" ,ESPN 6 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14885
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/42d62fce294871d8304fa27dd89ab8b4.jpg" ,ESPN 7 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14884
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d0de5a974c5dcbb0c7e97894b8de5df9.png" ,ESPN PREMIUM FHD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/158
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5b1d4e4d84d63d58440dda68625a0b17.png" ,ESPN PREMIUM FHD ( CHILE )
+http://nino4play.com:25461/JULIA/ARAUJO/14879
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/4af52202f77beb11ba59ce2056aa7878.jpg" ,ESTRELLA NEWS HD ( USA )
+http://nino4play.com:25461/JULIA/ARAUJO/6155
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a3e6bf71f974b3d7ed72c6355f2b3755.png" ,ESTRELLA TV FHD
+http://nino4play.com:25461/JULIA/ARAUJO/6076
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1e42334035cfc6194ce84fe1b9584208.png" ,ESTRELLA TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/283
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d391ba2b2349187dcea4131557941707.jpg" ,EURONEWS HD
+http://nino4play.com:25461/JULIA/ARAUJO/10836
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d9f0ad0a0145109ca3a173dff32f311e.png" ,FORO TV FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14473
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/467675b33c1fcae34c8fc4eb0f32d73e.png" ,FORO TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/47
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/467675b33c1fcae34c8fc4eb0f32d73e.png" ,FORO TV HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/384
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/bdd8930f7e5c063d1d28d5140f5bd61b.png" ,FOX  SPORTS PREMIUN FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14348
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU6ouhKVWqcj-ypmMCJzMT9gz7hzL4yJdLSAhcDumagH_auJp0" ,FOX SPORTS 1 FHD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/159
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/58d1b3927b0edbda39ecccfca42cde68.png" ,FOX SPORTS 1 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/14742
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4771dce6916781e257ac63087f5360d2.jpg" ,FOX SPORTS 2 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/162
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c888cbb88ccffea6cf698db59b5ce517.png" ,FOX SPORTS 3 HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/163
+#EXTINF:-1 tvg-logo="https://lh3.ggpht.com/SCuCKnNGRdqYo8b60DZTK2yzJoKWRorHJFttUulXwYO-PFuTWbbPNCMnGgSHmqyTTa9m=w300" ,FR  FRANCE 24 HD
+http://nino4play.com:25461/JULIA/ARAUJO/1801
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/6yDUwNFaXWEQTHDpIVZ-i6GjB5IwJhz4pFVtlF3bMUmv20fbtt1_aIKclY4E9JkLe41E" ,FR  RMC SPORT 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11751
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f5e9ddb2e4b8bbcecb188882f96c393d.png" ,FR  RMC SPORT 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11752
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3a3db904fcab8ec0fc0ce7400bea6ebd.png" ,FR  TV5 MONDE HD
+http://nino4play.com:25461/JULIA/ARAUJO/1802
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/33pwEqns4awwGtk0zjyZn-E_h2_OxebT5Z86PqAuMZ_BI0z2PptTTP45BRHjkPlwpMg" ,FR  TV5 MONDE INFO FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13834
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/eafbb79fe89fc455e97260f4eab4f2f2.png" ,FR LCI HD
+http://nino4play.com:25461/JULIA/ARAUJO/3687
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxUP2n_WP4LLDHr_bf52wc8Q34IonztYoTWdLUU=s900-c-k-c0xffffffff-no-rj-mo" ,FRANCE 24 ESPAÑOL FHD
+http://nino4play.com:25461/JULIA/ARAUJO/6074
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f69ac65dc8ecdad7bc0526e36edc32f9.jpg" ,FX FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14040
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/748b49376cad26b02cac3463715b5793.png" ,GALAVISION FHD
+http://nino4play.com:25461/JULIA/ARAUJO/285
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/_e27rMWIrdh3iS4iZBSySGjyCeLRJZM1tO1M6BfUADTetlmRsbBCKuYkEe8ehkeYifWojOdNpA=s900-c-k-c0x00ffffff-no-rj" ,GALAVISION FHD WEST
+http://nino4play.com:25461/JULIA/ARAUJO/14444
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f06a53cf8f4601bae5ff29097db01823.jpg" ,GLOBAL HD
+http://nino4play.com:25461/JULIA/ARAUJO/14063
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a2374cc5c635431488e2cf8dda43dff0.jpg" ,GOL FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14911
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f8c67c18580bb824aad0977deccac0a.webp" ,GOL TV FHD ( LATINO AMERICA )
+http://nino4play.com:25461/JULIA/ARAUJO/14318
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4039ff467dfb2e9c6121086fdecc1e3a.jpg" ,GOL TV HD ( USA )
+http://nino4play.com:25461/JULIA/ARAUJO/231
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" ,GOLDEN FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14410
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3fbd451a9d9e0e4217d724198c237fb5.png" ,GOLDEN PLUS HD
+http://nino4play.com:25461/JULIA/ARAUJO/118
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXPhLd3JdNd5d3ykMz5VqvkFbh0S_01a83CMVQ4TJbP1wHVOfB3yvaF1z41H1iuAs16E&usqp=CAU" ,GOLDEN PREMIER 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/14163
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2d2990ffd1d5ce8ab6a7d0145584684f.jpg" ,GOLDEN PREMIER HD
+http://nino4play.com:25461/JULIA/ARAUJO/119
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/A%2B_Guate_logo2023.webp/200px-A%2B_Guate_logo2023.webp.png" ,GUATEMALA  A + GUATE
+http://nino4play.com:25461/JULIA/ARAUJO/14924
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/cb5449756ecad9e1a60d042b9ac31fdd.jpg" ,GUATEMALA  TV AZTECA HD
+http://nino4play.com:25461/JULIA/ARAUJO/13661
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79ih6hqGF_QhzPib6KBUSGzerbLtODi_s2n=s900-c-k-c0xffffffff-no-rj-mo" ,GUATEMALA CANAL 3 SD
+http://nino4play.com:25461/JULIA/ARAUJO/2462
+#EXTINF:-1 tvg-logo="https://www.guatevision.com/wp-content/uploads/sites/2/2019/09/cropped-gtvicon-1.png?quality=82" ,GUATEMALA GUATEVISION HD
+http://nino4play.com:25461/JULIA/ARAUJO/373
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/ee81c5da030f9ff5c0f44b3f8b3a490b.png" ,GUATEMALA TELEVISIETE SD
+http://nino4play.com:25461/JULIA/ARAUJO/374
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/cdbbbb20dcdf449eb3de6d1dd90d81ad.jpg" ,GUATEMALA TN 23 HD
+http://nino4play.com:25461/JULIA/ARAUJO/375
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b9156f_f84b40402ab84b61a86f0f2f1f5d136b~mv2.jpg/v1/fill/w_206,h_214,al_c,lg_1,q_80/kisspng-amrica-televisin-television-chan.webp" ,MOVIL - AMERICA
+http://nino4play.com:25461/JULIA/ARAUJO/8459
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/yvohfswrzo4fjpvpfdbp" ,CHILEVISION FHD
+http://nino4play.com:25461/JULIA/ARAUJO/69
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5549d156cd63bc6537608380b747f948.png" ,HBO 2 FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/132
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c63f52bb327351cfe58cfc09a94a9004.png" ,HBO FAMILY HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/133
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ELLR6rcIP_mr6pB4kX9QhBKF-najkWHfb8RqceX4CBsyel3o_W9DoGas7WfPgfiIsQ" ,HBO FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/14148
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a50152f8b97487a6bf0a8a9994b69b5f.png" ,HBO PLUS HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/134
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/0878448a83b78d1ade566ea7a076faa2.png" ,HBO SIGNATURE HD
+http://nino4play.com:25461/JULIA/ARAUJO/1677
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" ,HISTORIA CHANNEL 1 FHD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/14346
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e12b1f7ee2a7a153fef134966041bc0c.png" ,HISTORIA CHANNEL 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/146
+#EXTINF:-1 tvg-logo="https://assets.change.org/photos/3/nl/bo/KNnLbOykNAOPeaR-800x450-noPad.jpg?1527644200" ,HISTORIA CHANNEL 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/147
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e82026f1472ba52eb5f6f9a9d4ae960b.jpg" ,HOGAR TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/13766
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.audiovisual451.com/wp-content/uploads/hola-concurso.png?fit=300%2C236&ssl=1" ,HOLA TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/289
+#EXTINF:-1 tvg-logo="https://image.pitchbook.com/5dSZGkokRkvpzWs5cAr2597YVuX1594151049473_200x200" ,HOLA TV PLAY HD
+http://nino4play.com:25461/JULIA/ARAUJO/10828
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/cf8863bcc3d5c1584ed61d30451ae1f5.jpg" ,HONDURAS CANAL 11 HD
+http://nino4play.com:25461/JULIA/ARAUJO/890
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaROUfb8xM4_9rF4KLO2JzUdIUfh3h7vNmDVMvdY4A=s900-c-k-c0x00ffffff-no-rj" ,HONDURAS CANAL 5 HD
+http://nino4play.com:25461/JULIA/ARAUJO/14563
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s229704/images/logod.png?t=637547023560000000" ,HONDURAS HCH HD
+http://nino4play.com:25461/JULIA/ARAUJO/1941
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRQvqMkYJhd7KR6uKUsq6h5wlKlGlZQpwq3hfsEhw=s900-c-k-c0x00ffffff-no-rj" ,HONDURAS LTV HD
+http://nino4play.com:25461/JULIA/ARAUJO/14567
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/130922bc1dd971164b7f0e0a77e8241d.png" ,HONDURAS TSI HD
+http://nino4play.com:25461/JULIA/ARAUJO/14562
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bW9kTZv6gZZccfbQ6HCnxzvTSi3MNARHOmpiquun8-TN9PKakixmapo6E66J8_HkgY2-ZpILsw=s900-c-k-c0x00ffffff-no-rj" ,HONDURAS TV AZTECA HD
+http://nino4play.com:25461/JULIA/ARAUJO/1910
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b0dae09da14bbc6830f0593ed3560c97.jpg" ,IMAGEN TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/6093
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" ,CABLE NOTICIAS HD ( COLOMBIA )
+http://nino4play.com:25461/JULIA/ARAUJO/2195
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" ,TELEMUNDO HD ( Corpus Christi )
+http://nino4play.com:25461/JULIA/ARAUJO/14898
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" ,MEGA TV HD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/13846
+#EXTINF:-1 tvg-logo="https://scontent.fymq3-1.fna.fbcdn.net/v/t39.30808-6/360109876_662190549274619_1920304928909594700_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xduJJ5oBMHYAX9ycDzj&_nc_ht=scontent.fymq3-1.fna&oh=00_AfB8tKawa2jRQ1tVqEO4-pGMqJGv9mJpfQHIXjyRa8ya9w&oe=65529EB6" ,JUSTICIA TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/14807
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/f25a94c9c0fa53752a7648cd15f8e899.png" ,KARIBEÑA HD
+http://nino4play.com:25461/JULIA/ARAUJO/2791
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" ,LA DOS HD
+http://nino4play.com:25461/JULIA/ARAUJO/3525
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/SkwSwcz2dGuDTkqOFEbEvJ3lWIMYcrZzhktpJAwFt1AQkHgFoKLrEyz-Hp1zX7iabgKj",LA KALLE HD
+http://nino4play.com:25461/JULIA/ARAUJO/13881
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.1620.13510798886605391.c17583d2-7158-4d95-ae00-cf20d93dcde9.c2299e1e-a2f1-492c-81e6-bf935e57dc6a" ,LA LIGA 1 FHD ( MOVISTAR )
+http://nino4play.com:25461/JULIA/ARAUJO/4638
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FId_sJJV3rT9NxzY0DGNvUTds-eJbJ9R_qAKS4cO9jQJautWCNPdVVUiDasxiHcKNeU" ,LA LIGA HD ( MOVISTAR )
+http://nino4play.com:25461/JULIA/ARAUJO/4636
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/31430585699c6021aac98c345ea41e19.png" ,LA RED FHD
+http://nino4play.com:25461/JULIA/ARAUJO/11521
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e1b598f737506b6fcbfcfe4118066e52.jpg" ,LA RED HD
+http://nino4play.com:25461/JULIA/ARAUJO/73
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/41bba2c5e162140663c7856df49cf44c.png" ,LA RED SD
+http://nino4play.com:25461/JULIA/ARAUJO/72
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FnPquwhaprIJLQasUK0GCTibOzLYjfWJh005wuzLwr0cXe0X6vlMhCcGPBSLmS2u-js" ,LA SEXTA HD
+http://nino4play.com:25461/JULIA/ARAUJO/3564
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1009/538/png-transparent-la-1-television-la-2-rtve-audiencia-others-television-blue-angle-thumbnail.png" ,LA UNO HD
+http://nino4play.com:25461/JULIA/ARAUJO/3565
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1fb15c3b06af4c7197d44231918e2800.png" ,LAS ESTRELLAS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14416
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/fa51fcd5a86d5c489ab1c91f845fdc3b.jpg" ,LAS ESTRELLAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/13750
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f8cccda7246a85ba0278ec3818b3db65.png" ,LAS ESTRELLAS HD INTERNACIONAL
+http://nino4play.com:25461/JULIA/ARAUJO/36
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f8b37cbd52c92ec5ba488b23dc5dc5ab.png" ,LAS ESTRELLAS SD
+http://nino4play.com:25461/JULIA/ARAUJO/35
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/866f7ce1786f572e0e06397335398531.png" ,LATINA UNA HORA MENOS
+http://nino4play.com:25461/JULIA/ARAUJO/5
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a4b7fe58cf9ac35ec5b06f431f6dba6a.jpg" ,LIGA DE CAMPEONES HD ( MOVISTAR )
+http://nino4play.com:25461/JULIA/ARAUJO/3350
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6ece3633d7b396304feadf2fd69f27db.png" ,LN+ HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/8158
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/7447ac0a244b50c782a9f10653fb8c15.png" ,M+ LA LIGA TV1 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14156
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4e5456c92c790a1421488a17ca0f5e20.png" ,M+ LA LIGA TV2 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14367
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJzqX0iPWaE0BbDe5U12lEqY2gXsL0DaRhqZUg=s900-c-k-c0xffffffff-no-rj-mo" ,M+ VAMOS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14910
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qh_vKHeE95IBP9kQPO65_CBIr5q-ire1HBPMxyuSIfJ_sjPHH9XabaMoeufkTehkISk" ,MARTI ( CUBA ) HD
+http://nino4play.com:25461/JULIA/ARAUJO/8441
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/340?cb=20191030180306" ,MAS CHIC HD
+http://nino4play.com:25461/JULIA/ARAUJO/1576
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/2015-3.png/revision/latest/scale-to-width-down/250?cb=20210707185856" ,MEGA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/71
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4daf9509d683b69d3ae42acba5466322.png" ,MEGA HD
+http://nino4play.com:25461/JULIA/ARAUJO/3686
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/91805ec00ad20b85226bec0bacf843d3.jpg" ,MEGA HD
+http://nino4play.com:25461/JULIA/ARAUJO/70
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/12e5ca8f19ee54c99c7f77e61f7189b7.jpg" ,MEGA MUNDIAL HD
+http://nino4play.com:25461/JULIA/ARAUJO/2268
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f3172dcb650fe8c1d240a9050e0c3309.png" ,MEGA NOTICIAS HD ( CHILE )
+http://nino4play.com:25461/JULIA/ARAUJO/1942
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/Mega_2013.png/revision/latest/scale-to-width-down/200?cb=20200111200350&path-prefix=es" ,MEGA SD
+http://nino4play.com:25461/JULIA/ARAUJO/13907
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUL0BOMAv3UoU-BMXNC9lQHj8A2Dku4gEC9mgexASy0D4pLKJq3a9rryhhEAao4tuu68&usqp=CAU" ,MEGA TV FHD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/3363
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/414f4608d35ab2fda45dcef7a3363db9.jpg" ,MEGANOTICIAS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/15097
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/850467fecec965c8475e1937b69a0ffb.png" ,MOVIL - ATV
+http://nino4play.com:25461/JULIA/ARAUJO/11650
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5b5af70814d6e90180fe555cfa1c9101.png" ,MOVIL - LATINA
+http://nino4play.com:25461/JULIA/ARAUJO/14042
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b1b78b42b19082ebb61c02fc8c042395.png" ,MOVIL - PANAMERICANA
+http://nino4play.com:25461/JULIA/ARAUJO/7306
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBb2HX-GFkPPUdlMhYdYwJDFxeHBB55j6-lazubOhPZrEsW1QO0T7y4znN6EpNjmaqaww&usqp=CAU" ,MOVIL - WILLAX
+http://nino4play.com:25461/JULIA/ARAUJO/10424
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=i/espn/espn_logos/espn_red.png&w=200&h=200&transparent=true" ,MOVIL ESPN 1 COLOMBIA
+http://nino4play.com:25461/JULIA/ARAUJO/14311
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/068b6ff11ea4bd072ffe3846af732860.png" ,MOVIL ESPN 1 HD PERU
+http://nino4play.com:25461/JULIA/ARAUJO/8444
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ef8972e694182ba02540ef3791e3eea1.png" ,MOVIL ESPN 2 HD PERU
+http://nino4play.com:25461/JULIA/ARAUJO/14315
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/96f68e8ed150ff892d042131309c264d.png" ,MOVISTAR ESTRENOS
+http://nino4play.com:25461/JULIA/ARAUJO/3566
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/bc354b2744ddf055e64f0984907f1308.png" ,MOVISTAR SERIE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/3568
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e9476f9c5cb59cd420bed6ab877a328f.png" ,MULTIMEDIOS ( C. JUAREZ ) HD
+http://nino4play.com:25461/JULIA/ARAUJO/14958
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a6554bb0b4fe118e73a44e5aa78cfd5c.png" ,MULTIMEDIOS ( MONTERREY ) HD
+http://nino4play.com:25461/JULIA/ARAUJO/45
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNiZFAInzZjl-yoZILnZSmUJK4fvQWvZO7PiwrJ0N1A&s" ,MULTIMEDIOS ( PUEBLA ) HD
+http://nino4play.com:25461/JULIA/ARAUJO/14959
+#EXTINF:-1 tvg-logo="https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_1616332857.png" ,N+ MAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/14868
+#EXTINF:-1 tvg-logo="https://www.lamac.org/system/channels/logos/000/000/100/original/pic_natgeokids.png?1522178503" ,NAT GEO KIDS HD
+http://nino4play.com:25461/JULIA/ARAUJO/98
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmZo_BhAoLTE2wCDVvKkM20ooElaIFuEswXceJ9j5V-D76vPiotO_DuZrEAiyuxWh0AtU&usqp=CAU" ,NATIVA HD
+http://nino4play.com:25461/JULIA/ARAUJO/14069
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d1c68f23f3950095c2e51a6ea8045c8e.png" ,NBC UNIVERSO FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13847
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MQ0U9totq-M7deoHGWrzqHy_04Zzd-zO1Pz8BXCH2MRuhCEJi1TunWoQUtS7i7I4bXg" ,NBC UNIVERSO WEST HD
+http://nino4play.com:25461/JULIA/ARAUJO/287
+#EXTINF:-1 tvg-logo="https://kidscreen.com/wp/wp-content/uploads/2020/06/natgeokids.jpg" ,NICK JUNIOR 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/99
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8dFEVqvbbufEYHeJ1ihdsDnWzXSdx3l6VRV5hj5A=s900-c-k-c0x00ffffff-no-rj" ,NICKELODEON FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14154
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/335708514f6a1a3b2a250a7ab3b350db.png" ,NOVA HD
+http://nino4play.com:25461/JULIA/ARAUJO/3643
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxuf-EfIFH26vilyZO4kLPLFVg2KpGNYo6uHDNEwg=s240-c-k-c0xffffffff-no-rj-mo" ,NTN 24 HD
+http://nino4play.com:25461/JULIA/ARAUJO/55
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxuf-EfIFH26vilyZO4kLPLFVg2KpGNYo6uHDNEwg=s240-c-k-c0xffffffff-no-rj-mo" ,NTN24 HD ( COLOMBIA )
+http://nino4play.com:25461/JULIA/ARAUJO/3536
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/FLFsfdE1mIs3Z-wHEHWspnilaJ2J2C0U0MFe9hzHkhtdPLdbjdAmK7zVSC1dK_vZ8VI" ,NTV HD
+http://nino4play.com:25461/JULIA/ARAUJO/15089
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ae310bd0f906ec091755619e2f3c2c6f.png" ,ONCE HD
+http://nino4play.com:25461/JULIA/ARAUJO/41
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/cff6dc89809d1c5796232dbb0f087d47.jpg" ,PARAMOUNT FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/6094
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/df9b41cfb67f733248b6c8c1c96be454.jpg" ,PASIONES FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13804
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/29ccf1edc762348297aa509b1454769b.jpg" ,PASIONES HD
+http://nino4play.com:25461/JULIA/ARAUJO/3029
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" ,PBO HD
+http://nino4play.com:25461/JULIA/ARAUJO/15015
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/01c826835ef7f02b707b72abce67abc6.jpg" ,PORTAL MIX HD
+http://nino4play.com:25461/JULIA/ARAUJO/1683
+#EXTINF:-1 tvg-logo="https://forounivers.com/gallery/image/1373-nuevo-logo-de-canal-4-monercarlo-tv-uruguay/?do=download" ,R. DOMINICANA  CANAL 4 HD
+http://nino4play.com:25461/JULIA/ARAUJO/3738
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/b3178e184c240a3c6848d2544a90280a.jpg" ,R. DOMINICANA  TELEUNIVERSO SD
+http://nino4play.com:25461/JULIA/ARAUJO/7150
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4450470f10b381484751f9f270fcb3ee.jpg" ,R. DOMINICANA COLOR VISION FHD
+http://nino4play.com:25461/JULIA/ARAUJO/1909
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/5d08938177130085067ff72fb36b8781.jpg" ,R. DOMINICANA TELECENTRO
+http://nino4play.com:25461/JULIA/ARAUJO/3194
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s17868/images/logog.png?t=156587" ,RADIO OVACION HD
+http://nino4play.com:25461/JULIA/ARAUJO/1685
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/38239360041a4f4ac5e09d400fba0b32.png" ,RADIO SAN BORJA HD
+http://nino4play.com:25461/JULIA/ARAUJO/851
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTiqT1teFSpeu_fi7HKxmTzGmMLd7SJr2_oymqJvjY=s900-c-k-c0x00ffffff-no-rj" ,RCN MAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/10968
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_c3WlMQ2DhDr2aHCvvOW6bRGQqq9bUJDa3EQ=s900-c-k-c0xffffffff-no-rj-mo" ,RCN NOVELAS SD
+http://nino4play.com:25461/JULIA/ARAUJO/2579
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9d821e9b3d9305ec249f49981b9d2d28.png" ,RCN NOVELAS SD.
+http://nino4play.com:25461/JULIA/ARAUJO/3026
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/40fc5fd8c4256a9593914e7fe4097511.jpg" ,RCN nuestra tele HD
+http://nino4play.com:25461/JULIA/ARAUJO/10954
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/8e82026bdad52cbac558c56322762fd1.jpg" ,RCN XTRA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13995
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9cb2995e30aabd07992e333694901f14.jpg" ,RETRO PLUS TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/1684
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/h5oIWC2ATJ0mgTrLdgOMeJpiR4EmD8H958xz6NwGVhRjH1jBp2PyR3Nw2L88JEtnT47j=w300" ,RT EN ESPAÑOL HD
+http://nino4play.com:25461/JULIA/ARAUJO/385
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/3380/brand.gif?itok=EYTnR2xN" ,RTVE HD ( ESPAÑA )
+http://nino4play.com:25461/JULIA/ARAUJO/386
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.andestvco.com/wp-content/uploads/2014/12/LOGO-SE%C3%91AL-COLOMBIA.jpg?ssl=1" ,SEÑAL COLOMBIA HD
+http://nino4play.com:25461/JULIA/ARAUJO/6098
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1e13abcf6b109d5639369606f15b3096.jpg" ,SKY SPORTS FOOTBALL HD
+http://nino4play.com:25461/JULIA/ARAUJO/14901
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/dcfaf1c61f2570d6cc109b7379802b7f.jpg" ,SKY SPORTS HD  ( ESPAÑA )
+http://nino4play.com:25461/JULIA/ARAUJO/6095
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" ,SKY SPORTS HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/14415
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9ae2767f15b15da469c307585dd350c0.png" ,SONY HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/121
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9ae2767f15b15da469c307585dd350c0.png" ,SONY NOVELAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/6305
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/51591d958f0587956c871c0ebc945373.jpg" ,STAR CHANNEL FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14041
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/13cccb20ed2f648be8afff6fb794967f.png" ,STAR CHANNEL FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/117
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/af679e90e6c701339683650f9b002be1.png" ,STUDIO UNIVERSAL HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/1925
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d0b0b281c1b1ce8a0e66f6f17ec70a78.jpg" ,T13 HD ( CHILE )
+http://nino4play.com:25461/JULIA/ARAUJO/8162
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ae799357328cf1b1f6a956c98fc1a90d.png" ,TD + HD ( C. RICA )
+http://nino4play.com:25461/JULIA/ARAUJO/14756
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f283151787f4823ac71112b5cb2687d0.webp" ,TELEANTOQUIA HD
+http://nino4play.com:25461/JULIA/ARAUJO/57
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Telecafe_2001_1.png/revision/latest/scale-to-width-down/340?cb=20170906161536" ,TELECAFE HD
+http://nino4play.com:25461/JULIA/ARAUJO/1581
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xJPjXtCa1vj47IRZiF3RNVepNHPN9Ro1oyQzWoisyI4jRtr8S_x96R98xu3wfDFO9WI" ,TELECARIBE HD
+http://nino4play.com:25461/JULIA/ARAUJO/10848
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/112cc3399d860daaed63d6be61715737.jpg" ,TELECINCO FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14670
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c44200260002504fcb609ffe169e7c41.png" ,TELECINCO HD
+http://nino4play.com:25461/JULIA/ARAUJO/3569
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f4d9bfc2f7f27d37a7e170438ed0a5ea.jpg" ,TELEFE HD ( ROSARIO )
+http://nino4play.com:25461/JULIA/ARAUJO/88
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/CwlkrvdEhaxn-4C7cUFu0gpx2Fcn2f58gCp0GJ3QJkP_G-fp-a2iDuVv6HHw-SaIMvmp97id1Q=s900-c-k-c0x00ffffff-no-rj" ,TELEFE HD ( SANTA FE )
+http://nino4play.com:25461/JULIA/ARAUJO/11722
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/youtube/images/8/8d/Telefe_New.jpg/revision/latest?cb=20230818010455" ,TELEFE SD
+http://nino4play.com:25461/JULIA/ARAUJO/15013
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2016_12/small.5862a82bef2ae_Telefrmula.png.7bfebc0a423db934c854bc900cf3b5db.png" ,TELEFORMULA HD
+http://nino4play.com:25461/JULIA/ARAUJO/3737
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2453d02dffde6c4db194057a352c0a83.jpg" ,TELEMADRID SD
+http://nino4play.com:25461/JULIA/ARAUJO/3522
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/7189602_300x300" ,TELEMEDELLIN HD
+http://nino4play.com:25461/JULIA/ARAUJO/59
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/29b218ec4a6a8f5964ad9be391d2e5f5.png" ,TELEMETRO HD ( PANAMA )
+http://nino4play.com:25461/JULIA/ARAUJO/15101
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/grUEdtR24J5QOyo5Lxb5x6TDuNafk5-UVbzhgfiwiZLZcwjNgzzTCO1uD5J9bOIc-08" ,TELEMUNDO 20 HD ( SAN FRANCISCO )
+http://nino4play.com:25461/JULIA/ARAUJO/13852
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pOefDCBabuuBaaUWh27m8xyXNsGjH2Jv7NaTwMHFYP7BIDya1tDbvZngX9COeT_cTqWf=w240-h480-rw" ,TELEMUNDO 39 FHD ( HOUSTON )
+http://nino4play.com:25461/JULIA/ARAUJO/14319
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qV3tkEo31tjStLN4o8xq1KB2nGTl0arYl8yZIf7-Gxu8ylbqWnh2841ZUQGYpi6kM-Y" ,TELEMUNDO 39 HD ( ARIZONA )
+http://nino4play.com:25461/JULIA/ARAUJO/13854
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qYASBkxcE4WGOx2gvBY_HDAynk_Of564iNRj5P-SEbH6nFXAPn_nXaTCTrApFhhL4A" ,TELEMUNDO 44 HD ( CHICAGO )
+http://nino4play.com:25461/JULIA/ARAUJO/282
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/TEfYd1Bj_fniCwK0Tkufw6q8iVtsai66CooYGcE5JMIoZjfXo7Yj3Rjw66azuvyjCg=h300" ,TELEMUNDO 47 FHD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/280
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/z79Lid24h9QoNcxRlx0QHUmW3JngGN1TGbr_1royHVuquP84mws6_6OBjM0Xk2LSXw" ,TELEMUNDO 47 HD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/13853
+#EXTINF:-1 tvg-logo="https://nebula.wsimg.com/5dff795031f055cfc2f2008f1f99e27a?AccessKeyId=FC98832E68A6D1FDAFB5&disposition=0&alloworigin=1" ,TELEMUNDO 47 SD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/3651
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Y7GKGOHidJBUEzjpyjcegIfM4b2Pv4MYOZT-WoePAZ5-0Nlc1EViUx8giAqrK-PCpF4w1gP8=s900-c-k-c0x00ffffff-no-rj" ,TELEMUNDO 51 FHD ( FLORIDA )
+http://nino4play.com:25461/JULIA/ARAUJO/14882
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/c_Hu7SDQMrl_zimuiOjUR8qbOEDpGB7SOOFLs29OzlhonQ5D1UyHLXC-QB8gZVznApw" ,TELEMUNDO 51 FHD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/11984
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c_Hu7SDQMrl_zimuiOjUR8qbOEDpGB7SOOFLs29OzlhonQ5D1UyHLXC-QB8gZVznApw" ,TELEMUNDO 51 HD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/281
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/pOefDCBabuuBaaUWh27m8xyXNsGjH2Jv7NaTwMHFYP7BIDya1tDbvZngX9COeT_cTqWf" ,TELEMUNDO 52 FHD ( CALIFORNIA )
+http://nino4play.com:25461/JULIA/ARAUJO/14074
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GRZLkSx8xeaf0CahFJlUfT0bQ5Yxsn8KfalzK9Gn7KBkZGbVBjMX75Cm4XbwWYn3TA" ,TELEMUNDO 52 FHD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/1061
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a4f978fd5a5487db4087f1280bf338bd.jpg" ,TELEMUNDO 52 HD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/14296
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VMpSJklzUthDeH2EfP0dmhiymZvS4raMuGsct4vwVCDxAeP2UTKxopImJEwm1_imKF4" ,TELEMUNDO FHD  ( P. RICO )
+http://nino4play.com:25461/JULIA/ARAUJO/13794
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkLdSF72kcg_6Uo4dd2Y4mE8xFgSNeo1WaRtjRja-n0UvJA5mho5myi_Qo1iDoHhgRP4I&usqp=CAU" ,TELEMUNDO INT FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14880
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/0a5e11c21ea24731b73690c60f41770c.jpg" ,TELEMUNDO INT HD
+http://nino4play.com:25461/JULIA/ARAUJO/14247
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b775770ed2e723b7a2a5b93bfdf0b558.jpeg" ,TELEMUNDO INT SD
+http://nino4play.com:25461/JULIA/ARAUJO/6002
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c7871a2a5eb0095e3e39ecfb0ad26151.png" ,TELEPACIFICO HD
+http://nino4play.com:25461/JULIA/ARAUJO/60
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/6a7f1f5d23ac02f1f46d2ecb217e3c96.png" ,TELEPIN HD ( CANAL 2 )
+http://nino4play.com:25461/JULIA/ARAUJO/90
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/8cca4869bc3be05a3b1a8876faf5be8d.png" ,TELESUR HD ( VENEZUELA )
+http://nino4play.com:25461/JULIA/ARAUJO/387
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqN9CnPTTXD8UrUoHk-Jl_gFF3ZfsL51UV4P3Cjiog=s900-c-k-c0x00ffffff-no-rj" ,TELEVISA TIJUANA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14398
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WMFUH76Iz25xMcEi4nkMRLLfSS4GSotYScDX8st1D2IswLm0dE5EqiFeQVj_QmZCrVk_0Ui9=s900-c-k-c0x00ffffff-no-rj" ,TELEVISA VERACRUZ FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14399
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKsbf4LTWyvob2EwOAA_cWxyR5rD93URB3SW6tboE1k9HmP9pConHMuaQmaz8idPJHEZ0&usqp=CAU" ,TLN NOVELAS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14876
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1e9vs18bjIbn96SU82Sh24o0A_MgP7jNB1gWEa6r3xDul4bcIhzbr8IhL3PuMtaCBZww&usqp=CAU" ,TLN NOVELAS HD ( MEXICO )
+http://nino4play.com:25461/JULIA/ARAUJO/14877
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2986e4f349ac4ad7287222a8a9a610df.png" ,TLN NOVELAS SD
+http://nino4play.com:25461/JULIA/ARAUJO/13835
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/84d21d4d9f8ecc06440b54712dd2e404.webp" ,TN NOTICIAS HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/1940
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHawtxQ2vdNJgnX3AehD0t6C9QX-dvGvRTxLBJi-2RDQGqGjQGeZiVtz-EpQ4w2lANZDE&usqp=CAU" ,TNT FHD ( INGLES & ESPAÑOL )
+http://nino4play.com:25461/JULIA/ARAUJO/14101
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d533c7c30006aeb4ac1eb9dc2aae1be4.jpg" ,TNT NOVELAS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14481
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2ef2e1ecdb638722654e5abb384dfb3e.png" ,TNT SERIES HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/1679
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmlhbWF0LnRudF9zcG9ydHNfaWNvbl8xNjEwODU1NDcxXzA2MA/icon.png?w=&fakeurl=1" ,TNT SPORTS 1 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14057
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hOFkZjq3w4gMkQ-7OcpVVDJRYAW9H9VUWn7CS7VY-YQD2_gOznZTV089uE0zQn6wKWA=w240-h480-rw" ,TNT SPORTS 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/78
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6fe3bb0b4f15b50e02600b8bac6d38a4.png" ,TNT SPORTS 2 SD
+http://nino4play.com:25461/JULIA/ARAUJO/14038
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b68a116680d684407f5d453f56b7038d.jpeg" ,TNT SPORTS 3 HD
+http://nino4play.com:25461/JULIA/ARAUJO/77
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9FwIt35JSHQKPHrPBhkcAgbdKp23HX737ewZj8Y39BeTpxy77YNI7zz0SZu-XDR4imw&usqp=CAU" ,TNT SPORTS 3 SD
+http://nino4play.com:25461/JULIA/ARAUJO/11969
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZE6M2DPoulefnxqxignhPd7-wo1BQcQpOKISwdnDnk6V34hEtJV-qfeZ0CWrPyN4NBI" ,TNT SPORTS HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/232
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/8612d184afcb6d465d2b779527705bd4.jpg" ,TOP LATINO
+http://nino4play.com:25461/JULIA/ARAUJO/3524
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hmWXYD8fm76z2BejoCvdfT1GNCSih5FnyE2WVlg-tnR7N4rsLb8-nFiFfhlQ74nrAw",TV AZTECA 7 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14347
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/9/0/490be89a05986390f44343c2c57bfe55_icon.png" ,TV AZTECA DEPORTES HD
+http://nino4play.com:25461/JULIA/ARAUJO/15014
+#EXTINF:-1 tvg-logo="https://soyeducem.files.wordpress.com/2019/12/logo-1024.png?w=640" ,TV CUATRO 4.1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/3734
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhBkBnPv_bXCIE4WCf0KcUOQh2C281YOplnbxB_JTI=s900-c-k-c0x00ffffff-no-rj" ,TV PERU NOTICIAS HD
+http://nino4play.com:25461/JULIA/ARAUJO/11643
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e5bcfdbc9330ff886c439ae7a4aefc27.png" ,TV PUBLICA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/92
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/640d96e78962cbce4420dec8263cef7f.jpg" ,TV PUBLICA HD ( CATAMARCA )
+http://nino4play.com:25461/JULIA/ARAUJO/14474
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ee8d9fd38d8f57b02fa4d62688b34dde.jpg" ,TV+ HD
+http://nino4play.com:25461/JULIA/ARAUJO/15088
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20181125/kax/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49dc0aff9.4636676515431691817893.jpg" ,TVE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/15098
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.svg/1024px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile_%282004-2016%29.svg.png" ,TVN FHD
+http://nino4play.com:25461/JULIA/ARAUJO/75
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5a77ee3b0d4fa198f54f0c4d3b3bdc57.png" ,TVN HD
+http://nino4play.com:25461/JULIA/ARAUJO/74
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwr8JGA_np73o_sIHPWUXfjaQQGhBAigIlenmOY5Q=s900-c-k-c0x00ffffff-no-rj" ,TVN HD ( PANAMA )
+http://nino4play.com:25461/JULIA/ARAUJO/6079
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1eecf12aad3ee1c2979c3db2c03dd7f1.jpg" ,TVN MAX HD ( PANAMA )
+http://nino4play.com:25461/JULIA/ARAUJO/10830
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f0c634d9b3fc1a4848b059a85dc0e5f3.jpeg" ,TVN SD
+http://nino4play.com:25461/JULIA/ARAUJO/11522
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Ti6H2cM8SjvsDdUjOqT1Wf9dcOye2y_BYHi3uipZ0QU7Yd6W616RUcymvhmBGFviGio" ,TYC SPORTS HD ( ARGENTINA )
+http://nino4play.com:25461/JULIA/ARAUJO/2580
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" ,TYC SPORTS HD INT
+http://nino4play.com:25461/JULIA/ARAUJO/233
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c8be4a9a6b7237c4cc90f36982ab2599.jpg" ,UNICABLE FHD
+http://nino4play.com:25461/JULIA/ARAUJO/46
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c8be4a9a6b7237c4cc90f36982ab2599.jpg" ,UNICABLE HD
+http://nino4play.com:25461/JULIA/ARAUJO/14080
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniK2X3-G2tSSyirxUuhgNv37fsshJ2VTMUHrvPZqA=s900-c-k-c0x00ffffff-no-rj" ,UNIMAS FHD ( CALIFORNIA )
+http://nino4play.com:25461/JULIA/ARAUJO/13851
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/unimas_logo_detail.gif?resize=550%2C605" ,UNIMAS FHD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/14151
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/f/fc/Unimas_phoenixkfph_NewLogo.png/revision/latest?cb=20220102230356" ,UNIMAS HD ( ARIZONA )
+http://nino4play.com:25461/JULIA/ARAUJO/288
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/4de170b574e9c5c23b41de7e6164f7c0.png" ,UNIMAS HD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/14054
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/fdd42997c30168e887dcbac029ecbc1e.jpg" ,UNIMAS HD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/13753
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e2fafc632f041229fcf743dd6d495f17.jpg" ,UNIVERSAL CINEMA FHD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/125
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3f6231245d0a0fb0fed78f2089408921.jpg" ,UNIVERSAL CINEMA HD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/13973
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/_xmrueXlQyPmO379bSt2BjirLWXxNOUoQn1jV0DpOlxxeCGlx9Z2L9HxfoWMgdsdIyGFh17W1A=s900-c-k-c0x00ffffff-no-rj" ,UNIVERSAL COMEDY FHD
+http://nino4play.com:25461/JULIA/ARAUJO/13857
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3c2009bbd14d61e8be44d3ae5dd6cbe2.png" ,UNIVERSAL COMEDY HD  D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/366
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jIu3w4pPl2skCg7d36XdiwTF_NFNnlSITS4ZzYbnv6v0J8kwP_O4OgHAIo2MJj0MiQ" ,UNIVERSAL CRIME FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/14166
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS79tqDVnF2OZt_8yyetO1XbR7fvv88K6cOfHr3WIUevnvLNuol6B6wUoj78yaFZwPKe5Y&usqp=CAU" ,UNIVERSAL CRIME HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/124
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a43683d33b40f413228d54e3c6ed4a2f.jpg" ,UNIVERSAL PREMIER FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/13856
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3c2009bbd14d61e8be44d3ae5dd6cbe2.png" ,UNIVERSAL PREMIER O HD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/128
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/150b2c29cf1d2f416364d9039f6886f7.jpg" ,UNIVISION 23 FHD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/277
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G2Gxq6UMhGeVvDYo_V96f94PHPSlPrjPB5T3kzBore8usKphY4wVnZJyDy8fSO__ekw" ,UNIVISION 23 HD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/10536
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/52c731ba45bdc9ca2bffb3bfa1c3a7a7.jpg" ,UNIVISION 34 FHD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/13849
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/459a6c58bf7cfad64cb16e4b87b7776e.png" ,UNIVISION 34 HD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/2790
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c4277de94d086f593e4176eeede3e885.png" ,UNIVISION 41 FHD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/278
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c4277de94d086f593e4176eeede3e885.png" ,UNIVISION 41 HD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/2896
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/mD5JbmWkLzvpzi217qlYIr5lX_rH9b49pJ8OaEhPrd4G1FeGIy41ou9qrgzPVsQJWmmO" ,UNIVISION 41 SD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/13850
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CgbLrqPuWdbjSKVN8SRs5WWZdO-eNRxnDNHAHoMccRXgp6q6QwWGORBs9ETWpY-xIg" ,UNIVISION 45 HD ( HOUSTON )
+http://nino4play.com:25461/JULIA/ARAUJO/13848
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/dbb053c4d88c108116f9fc44c5e4a45f.png",UNIVISION NOTICIAS 24/7 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/10825
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e3f6cab0d651827f7c620e163c95e4d6.png",UNIVISION NOTICIAS 24/7 FHD.
+http://nino4play.com:25461/JULIA/ARAUJO/14150
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a230484aa8ed4f77fb0174d1a87ed7ce.jpeg" ,UNIVISION TL NOVELAS SD
+http://nino4play.com:25461/JULIA/ARAUJO/291
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/A%26E_Television_Networks_%281995%29.svg/revision/latest/scale-to-width-down/200?cb=20210605064413" ,USA  A&E FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14152
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d084edaaecc2b463e84ce55fb2706cdd.jpg" ,USA  ABC 7 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/2514
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bewitched/images/a/a3/ABC-Color-Logo-logos-34761810-430-394.png/revision/latest?cb=20181018173705" ,USA  ABC FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14384
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o",USA  ABC NEWS HD
+http://nino4play.com:25461/JULIA/ARAUJO/2819
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a53be8acb92bd2c61e1c17be0890b816.png" ,USA  AMC HD
+http://nino4play.com:25461/JULIA/ARAUJO/10294
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/560fe62dde728605d7e69df5be376522.png" ,USA  ANIMAL PLANET HD
+http://nino4play.com:25461/JULIA/ARAUJO/11769
+#EXTINF:-1 tvg-logo="https://qph.fs.quoracdn.net/main-qimg-3bbd4b8113250d9977aaba55c9304647-pjlq",USA  ATP WTA HD ( TENIS )
+http://nino4play.com:25461/JULIA/ARAUJO/11983
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT24QcDuLuMw2qHygoRmzg1hxIaNDlfDTuPxqSwrQ=s900-c-k-c0x00ffffff-no-rj" ,USA  BALLY SPORTS HD ( DALLAS )
+http://nino4play.com:25461/JULIA/ARAUJO/11740
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_nPmIM5qRq2B9kckd_HZ40thchg6Ve0jG45A=s900-c-k-c0xffffffff-no-rj-mo" ,USA  BEIN SPORTS HD
+http://nino4play.com:25461/JULIA/ARAUJO/101
+#EXTINF:-1 tvg-logo="https://notclosed.com/assets/images/wemake/large/work_bravo_logo.gif" ,USA  BRAVO HD
+http://nino4play.com:25461/JULIA/ARAUJO/2170
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT2paCiO6XjOnFOSKXCRvtQkjmiC7GSFeSkOSY1=s900-c-k-c0x00ffffff-no-rj" ,USA  CBS HD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/2546
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0018/7324/8355/products/CBS_NEWS_Logo-vintage_womens_relaxed-RO_1200x630.jpg?v=1581010856" ,USA  CBS NEWS HD ( MIAMI )
+http://nino4play.com:25461/JULIA/ARAUJO/2445
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/11fe9c551d4dcf20d06cd331cee70017.png" ,USA  CBS NEWS HD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/2547
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/z8lHhjVokdFDVyllxbYrYFkGIew-DXa13FcwkHJ6EWp8rae9ICdflCjnihwydzuNEA" ,USA  CBS SPORTS NETWORK HD
+http://nino4play.com:25461/JULIA/ARAUJO/3608
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/06b88a3158b7595f634d324755e976fc.png" ,USA  CNN HD
+http://nino4play.com:25461/JULIA/ARAUJO/2476
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/0899fe1e794b0dce40f79610b14d82fa.png" ,USA  DISCOVERY CHANNEL HD
+http://nino4play.com:25461/JULIA/ARAUJO/6670
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e78c250c7aa77a0250b6955e26289435.jpg" ,USA  ESPN 1 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11727
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b0060e05db6390fc46e1da9ee38c2e2a.jpg" ,USA  ESPN 2 HD
+http://nino4play.com:25461/JULIA/ARAUJO/11726
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E0BAQHPS2TC1WmNmA/company-logo_200_200/0/1519856025242?e=2147483647&v=beta&t=N58WYgVfWoqqCiqcScqFrgIBqNlpNEsUs6xu2iqNVZM" ,USA  ESPN HD
+http://nino4play.com:25461/JULIA/ARAUJO/14350
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5ad71567-f923-4059-a7a1-81b0e33232a2/d1fg2jc-2eaaeff4-b9ad-46fe-a834-ba855152bc8f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVhZDcxNTY3LWY5MjMtNDA1OS1hN2ExLTgxYjBlMzMyMzJhMlwvZDFmZzJqYy0yZWFhZWZmNC1iOWFkLTQ2ZmUtYTgzNC1iYTg1NTE1MmJjOGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.huerU0YjVGSHj2oKU97thi0LH3kMT2UXSQamVjj1QY0" ,USA  FOX 11 HD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/13764
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a1ed3913b21d65d64d9021c31c491cd6.jpg" ,USA  FOX 11 HD ( LOS ANGELES )
+http://nino4play.com:25461/JULIA/ARAUJO/13872
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/7a538fb80e60e3135f35c1739ffd59ca.png" ,USA  FOX 5 HD ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/13871
+#EXTINF:-1 tvg-logo="https://c.tenor.com/r3W4cvPtE9gAAAAd/fox-news-fake-news.gif" ,USA  FOX NEWS HD
+http://nino4play.com:25461/JULIA/ARAUJO/10839
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/89d28811bfabd40cab2e38797a24f72f.png" ,USA  FOX SOCCER PLUS HD
+http://nino4play.com:25461/JULIA/ARAUJO/11729
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/0R5MXYkN1Kh5EGBDEWdxOTO7DGlQpOM64K6YrusGF-ixKM6qH8-GjBgmQg390ssG8w" ,USA  FOX SPORTS FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14445
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/0ed29b8c36a25ed82ed8f84d9aa20687.png" ,USA  FS1 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14411
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" ,USA  HBO 2 FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14446
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yb3Hj1tSoV1iWOiEZQFKY831QVpXgOP9qq86wWrr2sp9L4P_3h03xi4b9cgP6D1JrQ5ylJ-CZg=s900-c-k-c0x00ffffff-no-rj" ,USA  HBO FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14447
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/sailormoonenglishanime/images/a/ac/USA_Network_%28Milgreen%29.png/revision/latest?cb=20141101163109" ,USA  HD
+http://nino4play.com:25461/JULIA/ARAUJO/14146
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f1bb5b6edb0bc8278272bca3997ae3bc.jpg" ,USA  HISTORY FHD
+http://nino4play.com:25461/JULIA/ARAUJO/11757
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/bcb3a56b9dce3ee70e0fac047b0a5cc7.png" ,USA  MLB HD
+http://nino4play.com:25461/JULIA/ARAUJO/104
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/fa4ebef94440d5ce864200b516a6d141.jpg" ,USA  MSNBC HD
+http://nino4play.com:25461/JULIA/ARAUJO/11684
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/baec6461b0d69dde1b861aefbe375d8a.png" ,USA  NAT GEO WILD HD
+http://nino4play.com:25461/JULIA/ARAUJO/2581
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/fca9ed8a9b0ace6d35ca92cc776dd4f2.jpg" ,USA  NBA TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/1917
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/O1yPZ5fjFP8GQ7OMSsrWDg-U3bP_TkV-IB9TTexvwK37BaMbMidvgvSRAlXkwfr-UWs" ,USA  NBC 5 ( NEW YORK )
+http://nino4play.com:25461/JULIA/ARAUJO/14999
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw7sCgTchsLPRZprROiWyklMTYvnYtx1REtxg=s900-c-k-c0xffffffff-no-rj-mo" ,USA  NBC NEWS NOW HD
+http://nino4play.com:25461/JULIA/ARAUJO/2820
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bHw03qsEdgPo-Drvd6N5R1jLLgIBMG_zz2JLL6k1ayYIscNMvhijIQyhTWSjBeFQ4A" ,USA  NBC SPORTS HD ( BOSTON )
+http://nino4play.com:25461/JULIA/ARAUJO/11756
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/907bdefc9053394f886deea1b133c715.jpg" ,USA  NBC SPORTS HD ( WASHINGTON )
+http://nino4play.com:25461/JULIA/ARAUJO/11781
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/N6PXcrSQE-t3K7LlcLGDhGd7jq61TY9GPZXPbgvWULyyUwgz8O4rGVSVs1vW3JMaNHFT" ,USA  NFL HD
+http://nino4play.com:25461/JULIA/ARAUJO/3740
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/nhl_network_2012.png?itok=pKsy4ksY" ,USA  NHL FHD
+http://nino4play.com:25461/JULIA/ARAUJO/12006
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTDj5KaiehyTAh6cH25YPMe1y1N6UQ16VWFjqIh8Q=s900-c-k-c0x00ffffff-no-rj" ,USA  PAC 12 NETWORKS HD
+http://nino4play.com:25461/JULIA/ARAUJO/11766
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0049/1520/0090/products/Showtime_Retro_Logo-Fleece_Hooded_Sweatshirt_Mockup-RO_025727fa-da01-43f1-a572-9008e2bc34e8_1200x630.jpg?v=1565620786" ,USA  SHOWTIME EAST HD
+http://nino4play.com:25461/JULIA/ARAUJO/6301
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U" ,USA  TBS HD
+http://nino4play.com:25461/JULIA/ARAUJO/14357
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2014/07/10/TLC%20Logo.jpg?itok=lk6PK3yC" ,USA  TLC HD
+http://nino4play.com:25461/JULIA/ARAUJO/6669
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/abd8a3ef2e31a3e157faaa64852a3847.jpg" ,USA  UFC FIGHT PASS HD
+http://nino4play.com:25461/JULIA/ARAUJO/2898
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/71b4a0fb20ee5de8c7b56f2201f0fb72.jpeg" ,USA  WWE HD
+http://nino4play.com:25461/JULIA/ARAUJO/355
+#EXTINF:-1 tvg-logo="http://158.69.52.98:25461/images/e012ca125a11b8274acdd025154791e6.png" ,USA TNT HD
+http://nino4play.com:25461/JULIA/ARAUJO/3688
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ys-LOp_XMVf2UG9Zfrn49eS3ONoBWVTREHbU2tDx70JfbrXMefWtatHRP_qd7i-5q68iY6rRMg=s900-c-k-c0x00ffffff-no-rj" ,VENEZOLANA TELEVISION SD
+http://nino4play.com:25461/JULIA/ARAUJO/14690
+#EXTINF:-1 tvg-logo="https://scontent.fyhu2-1.fna.fbcdn.net/v/t39.30808-6/363379344_307778848301478_6841927179843118296_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=w_LSetf-f4cAX-kiU53&_nc_ht=scontent.fyhu2-1.fna&oh=00_AfARRV6sev_6l_oO0qUzXqInSYhO9foYpvXflDaw3lGaHg&oe=65123360" ,VENEZUELA EVTV HD
+http://nino4play.com:25461/JULIA/ARAUJO/14582
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Globovisi%C3%B3n_1994.png/revision/latest?cb=20191201143058&path-prefix=es" ,VENEZUELA GLOBOVISION HD
+http://nino4play.com:25461/JULIA/ARAUJO/14583
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a0245a56f7228f2b93bbc8f3d273f4b3.png" ,VENEZUELA VE PLUS HD
+http://nino4play.com:25461/JULIA/ARAUJO/14755
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6IlJhfm7ZBK2cgbZWbweq2v5cyqIPiGG3fd-Zeapbii9tEel_XmY_JZCsYH3NYTJhprBzfMGPA=s176-c-k-c0x00ffffff-no-rj" ,VENEZUELA VE PLUS SD
+http://nino4play.com:25461/JULIA/ARAUJO/14580
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yUD3-hbcZ3Gv_GMH-Sm8ZCZ-6CMknluz6CE6VHpqD6w_b1X0BZ9bjEBYfWS0vKFSttAz" ,VENEZUELA VENE TV HD
+http://nino4play.com:25461/JULIA/ARAUJO/14785
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/r2tcL_eF5mnwmwStu48zqIh-0Q-qxPD5VuRUvTpmYthi27DP54NrZR_6LRvZYHpZ1P4ZvuM3Uw=s900-c-k-c0x00ffffff-no-rj" ,VENEZUELA VENEVISION FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14976
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XJKBLaDkJzZ8HCCjFWd6pvVg7lMUiqqit5MW5IwzxAfIq6WwGvJs2K4osqZrmT6tDA" ,VENEZUELA VENEVISION HD
+http://nino4play.com:25461/JULIA/ARAUJO/14588
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/acab0b8c90feaabd7fabe00b94c3f220.png" ,VEVO 80s HD
+http://nino4play.com:25461/JULIA/ARAUJO/11016
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9Y-IM4DZoAdTN_SBht2lmyPPQouJ0Wcr2WlNQo=s900-c-k-c0x00ffffff-no-rj" ,VEVO LATINO HD
+http://nino4play.com:25461/JULIA/ARAUJO/852
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2823b8a484cb4e01d1e7443ad2d7cac6.jpg" ,WAPA AMERICA FHD
+http://nino4play.com:25461/JULIA/ARAUJO/3739
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/43bd23a36d75d7ea9eb183019843968b.jpg" ,WAPA DEPORTES FHD
+http://nino4play.com:25461/JULIA/ARAUJO/14476
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3232f4d014a4fee57ee8e4b4e73f72c8.png" ,WARNER FHD D.AUDIO
+http://nino4play.com:25461/JULIA/ARAUJO/14046
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAB7YYgJsOZllG52817CYq6kft4DIbH70b6UH5XqO4iTrlDXxRG1RM7mR0ZNRHHCzWPw&usqp=CAU" ,WILLAX HD UNA HORA MENOS
+http://nino4play.com:25461/JULIA/ARAUJO/8442
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a8aa2fb8452e11d77932f50a917d8a84.png" ,ZOOMOO HD
+http://nino4play.com:25461/JULIA/ARAUJO/14164
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fzOLro2JVqIg3ccrDELIvqXQF79LHlDNUKwY2qHQof_yQSNEseqyXTWtlu6Wa14UPA" ,✰ 01 MLS SOLO EVENTOS
+http://nino4play.com:25461/JULIA/ARAUJO/11640
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/42695bcaaf8cc7bfb7fd8011f3de7658.jpg" ,✰ 02 MLS SOLO EVENTOS
+http://nino4play.com:25461/JULIA/ARAUJO/244
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c5d3150a457f2a1155aec4cc4a5dda65.png" ,✰ 03 MLS SOLO EVENTOS
+http://nino4play.com:25461/JULIA/ARAUJO/14873
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCDAotF6ZvBiIll933siwjSmvvVSBUv1RdmNoFg99zTEaZaOgUL7PjAjuW5Rvka6B5fE&usqp=CAU" ,✰ 04 MLS SOLO EVENTOS
+http://nino4play.com:25461/JULIA/ARAUJO/14881
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e68bf3e6eff456d5b353baedc0dcfb42.jpg",✰ 1 AMERICA FHD ( EXCLUSIVO )
+http://nino4play.com:25461/JULIA/ARAUJO/14165
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/8cc665598a341d8ee8ba3af43ae5b772.jpg",✰ 1 CLARO SPORTS ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14260
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/7b8cf5f4fbe620b16724adbfb66ab7db.jpg" ,✰ 2 ATV FHD ( EXCLUSIVO )
+http://nino4play.com:25461/JULIA/ARAUJO/14295
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/180?cb=20180803141855" ,✰ 2 CLARO SPORTS 2⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14922
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6db002663f857f78d435f51218118872.jpg" ,✰ 2 ZONA TUDN FHD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14209
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/QmM9u7IOYkK2dOGdnq-7U09hFS56QY3P7Z_6in4MAz5Q1AAY4nDKU7F6Z244uNOvXYYjPNZS-Q=s900-c-k-c0x00ffffff-no-rj" ,✰ 3 ATV + FHD ( EXCLUSIVO )
+http://nino4play.com:25461/JULIA/ARAUJO/14462
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/9dada83b0f893c89746a52ae482caa73.png" ,✰ 3 DTV FIGHT ( EVENTOS ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14320
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Latina_TV_2019.svg/revision/latest/scale-to-width-down/200?cb=20210524134322" ,✰ 4 LATINA FHD ( EXCLUSIVO )
+http://nino4play.com:25461/JULIA/ARAUJO/1
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=kTyv4Wsb" ,✰ 5 PANAMERICANA FHD ( EXCLISIVO )
+http://nino4play.com:25461/JULIA/ARAUJO/7
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ae86989cea9dee574cba1405a1299de8.jpg" ,✰ 6 RPP TV FHD ( EXCLUSIVO )
+http://nino4play.com:25461/JULIA/ARAUJO/14906
+#EXTINF:-1 tvg-logo="https://files.startupranking.com/startup/thumb/18145_6d2fa1ce03df1421eeb0ef0e3f961f7f0c633227_willax-tv_l.png" ,✰ 7 WILLAX FHD ( EXCLUSIVIO )
+http://nino4play.com:25461/JULIA/ARAUJO/14395
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/39878ec0352f0e423ee5423553599627.png" ,✰ AMC HD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/13992
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/035997cc44729e3b175ac0aa82a3fa2d.jpeg" ,✰ AMERICA FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/4
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1aee7137efdd53aff1c856724d6edad0.png" ,✰ AMERICA HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/6
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d6b6c9f40ad5a72c530bc5d457c7a931.jpg" ,✰ ATV HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/10
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/8b160b9a08ab067ff0f310bef426b37d.jpg" ,✰ ATV PLUS HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/11
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/riNs21FEv5KgFUlrOFaeiKUEcimNYTug0Ps2Nehz7W8TfKhHf9kDCFep9RPrMS0vOSCJPE9SuU4=s900-c-k-c0x00ffffff-no-rj" ,✰ ATV SD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/9
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0e/ad/37/0ead3717-1324-ddd6-cb73-9e6f27e7294a/source/512x512bb.jpg?w=150",✰ AXN HD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/3033
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e6d3b278a574aef18d5453f0dfc625f1.jpg" ,✰ CA  RDS 1 FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/11591
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e40490109cdce445265735cb26654a1b.jpeg" ,✰ CA  RDS 1 HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/357
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a5e55c211022a154594a0697d1597640.png" ,✰ CA  RDS 2 HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14141
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Canaln2020.png/revision/latest/scale-to-width-down/250?cb=20210517203815" ,✰ CANAL N HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/1571
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Canal_UNO_Colombia_HD_2017.png/revision/latest?cb=20180122191001" ,✰ CANAL UNO FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/1570
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b9q3M2O0bBkYOnAVcGYcFLb6H31tU5QdCkKwUPoX8rdOT6eSBGY3mP_MDYkhDGzx9-w" ,✰ CANAL UNO HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/10829
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nN7k-naB2ZvPAj3S_y0vdUFG28-pNUcKCKbeg3kw9GUFBUF7UWtWeseq9hSykb-jnHo=w220",✰ CARACOL FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14192
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/CaracolTVvariation3.svg/revision/latest/scale-to-width-down/250?cb=20171206205959" ,✰ CARACOL HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/3437
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ladygaga/images/c/ce/Caracol_TV.png/revision/latest?cb=20130130041410" ,✰ CARACOL SD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/1502
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/467773e6d8d2c0a2c7cde2c10bf48dfe.png" ,✰ CINEMAX HD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/116
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/028e7f67aef55be436b179e2e22b87a5.jpg" ,✰ CITY TV HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/2675
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/T6YoqTNRTJM4Eozq4SNnb5nDyD7PRdk_z73K8A7zU3DHWiM9b1xyFyBtOq80xtFM-h0" ,✰ CITY TV SD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14361
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/76omVPp8B4YjgG6c6RGiSTxsv5US9O8MvJKHC8WyPg9KzCiNwspVWaa8Jtq6tyMhPg" ,✰ DIRECTV SPORTS FHD 1 ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/154
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/25ef010a89e70a5445482f4e896b07db.png" ,✰ DIRECTV SPORTS FHD 2 ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14121
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cFxWI5Oxw_WkTWko2gnLsliulpjNuU2u2Koy_tGzh2mTzE2WnEzpfiXPszJ_xufPgn8" ,✰ DIRECTV SPORTS HD 1 ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/4521
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/02fd35caf3d213de4b88757b09f227ba.jpg" ,✰ DIRECTV SPORTS HD 2 ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/155
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/d0475674a7dbc840152c34374abe2b34.png" ,✰ DIRECTV SPORTS PERU HD ✰✰✰ ....
+http://nino4play.com:25461/JULIA/ARAUJO/21
+#EXTINF:-1 tvg-logo="https://dsportsradio-assets.tadevel-cdn.com/62ae18c55104019949f98846/icon.svg" ,✰ DIRECTV SPORTS PLUS FHD  ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14246
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROkUp9tvQZHWwKMcGa9AEE09zz0cYENuHjWkShUPtB7Ih-rC6t" ,✰ DIRECTV SPORTS PLUS HD  ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/156
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/IwA41BXmUn-TTMwYiqpO7uyNO0OypwI5DZmBpFjgt7u2SHKZTGuELUaIZx1PjItkZvM7",✰ DISCOVERY ESPAÑOL FHD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14907
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSXFOeAE3Aw3SXHrDHa8pAupUaU32h69WVRi6gU=s900-c-k-c0x00ffffff-no-rj" ,✰ DISCOVERY ESPAÑOL HD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/137
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-kmgUNCHXb5Gz-8199fqOjSdz6bySx3tOSOA=s900-c-k-c0xffffffff-no-rj-mo" ,✰ DISCOVERY ID FHD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/140
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" ,✰ DISCOVERY TLC HD D.AUDIO ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/6026
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSX21ZTqddlO31hOYGNmWiTKy4h6rkhYafqKamAkQ=s900-c-k-c0x00ffffff-no-rj" ,✰ DISCOVERY TURBO HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/13752
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a221c8c49579941e9445b3647e7f1056.jpg" ,✰ ESPN 1 FHD ( COLOMBIA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/13972
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/2ace58d3ba77351bde4ad3401cb49f04.jpg" ,✰ ESPN 1 FHD ( PERU ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/166
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/0919c24e8eab4a719f5d7d5850ec13af.jpg" ,✰ ESPN 1 HD ( CHILE ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/13799
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f68d4b9226872243221c6e33e76da045.jpg" ,✰ ESPN 1 HD ( COLOMBIA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/792
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FESPNPeru%2Fstatus%2F1637591031075028992&psig=AOvVaw3VAKhUUhXifs29rH4i82Ti&ust=1725973491993000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJi0vbr2tYgDFQAAAAAdAAAAABAE" ,✰ ESPN 1 HD PERU ✰✰✰........
+http://nino4play.com:25461/JULIA/ARAUJO/1111
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/6bd4a9a722f9cd1125fd44f60b24223c.png" ,✰ ESPN 2 FHD ( COLOMBIA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14913
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/b0060e05db6390fc46e1da9ee38c2e2a.jpg" ,✰ ESPN 2 FHD ( PERU ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/152
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/496e05e1aea0a9c4655800e8a7b9ea28.png" ,✰ ESPN 3 FHD ( PERU ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/10291
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a7f1c9fa8870a6661141de72ea23b44f.jpg" ,✰ ESPN 4 FHD ( PERU ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/11592
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2013/11/SC-App-Logo.jpg" ,✰ ESPN 5 FHD ( EXCLUSIVO ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/13970
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/files.lafm.com.co/assets/public/styles/image_1200x1200/public/2021-05/star_8_0.jpg.webp?tRr6wuV5Om_sqk17AZ8WyLe0YKoeKqZo&itok=KYi6C16L" ,✰ ESPN 6 FHD ( EXCLUSIVO ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/11995
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a477bbe1c93ec6982e561fba878989ea.jpg" ,✰ ESPN 7 FHD ( EXCLUSIVO ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14878
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/74a703e74ad90c7cbf4001ad6899dea0.png" ,✰ ESPN DEPORTES FHD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/165
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/7d9652d1774596f808ac862e58737c17.png" ,✰ ESPN DEPORTES HD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/11761
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/86adba1ba33f03928f261326076db6ba.jpg",✰ ESPN FHD EXCLUSIVO ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/10974
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/f68d4b9226872243221c6e33e76da045.jpg" ,✰ ESPN HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/62
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/1695499c0d481522f913230cbe74aad7.jpg" ,✰ EXITOSA HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/13
+#EXTINF:-1 tvg-logo="https://prim.dideo.ir/image/a2NjY2JjTFBBSk5rZnYyT1dMWURJZjNocU5EU2xva3paOC9rL2hVd2hoV1FlRndQZENXUE5ZeVAvbmRHZElWZjZKa3RGVkhUMmFnTkZCTGpFWVM3aUxBZ3VxV05XVGlFbGhOQmNjR2czN0h6ZWg4VUFzVktMMW1CbkFVREliVmxnRGIzR3hHT2Q2TEdKeGRpNVBzNmtaV2NnOXUwZXM4TmRuVlVMUWM2L0c2WjAxazFLdUpkSHVwREdpcjl3dnpTeFlyNzNkNFhTdFBzeFJjSTBoVmZaVGN1UGplL0NBdmVBU1dqdFZoenZEaHgxTXVkTXNaWC9XVTZuQzF3OVBCaEJHOFdiVjM5N04wUnlkSjlmaUdDQXUrbDFEMStxM091VHg0TU1vaENzN0huVmRHOVpPZUdjWmpENUZTaXJmYXE=" ,✰ FOX DEPORTES HD ⚽⚽⚽    DP
+http://nino4play.com:25461/JULIA/ARAUJO/164
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DQjAsNXWp_Pxmgjt-1oHs4d21CCYXigCFv1CP5QR7F9_MnB5E0yJcst7eIMHUaQJntgdPdjJCQ=s900-c-k-c0x00ffffff-no-rj" ,✰ FOX DEPORTES SD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14472
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/ce4849358570d4ba585055e4c41c167c.png" ,✰ FOX SPORTS 1 HD ( ARGENTINA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14200
+#EXTINF:-1 tvg-logo="https://futbollibre.pe/img/logo-canal/fox_sports_2.webp" ,✰ FOX SPORTS 2 HD ( ARGENTINA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/160
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/614048f1901193a01420701f48cdf50b.png" ,✰ GOLPERU FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/18
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3cc379dc3dfcc802c99f8d068b02269a.jpg" ,✰ GOLPERU HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/19
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/747dae7fd2ad588ea54cd0c1ba02b4d8.png" ,✰ GOLPERU SD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14053
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/3d8c383291ac5244a7dd30895248b20c.jpg" ,✰ GOLTV HD ( ECUADOR ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/2396
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/a7bfd79f3bfb3168d2d63c619e0df41f.png" ,✰ HBO POP FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14075
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/logo_hbo_latino_small.gif" ,✰ HBO PREMIUM FHD    ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/365
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0CMoLZ8gSKibhvNU1GM1M2-Ullpg6BG08AbufXkd3J4izwK4zjOAghqvU-DhSnhrTfY&usqp=CAU" ,✰ HBO XTREME FHD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/3186
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74",✰ KANAL D FHD ( DRAMA )  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/13734
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/juqFnrNWST4NSao1R2cVrBAh-RoVFeg9GTdbRfw28Y6PDB1l4BOoZ4N2ELPKSVqH6SFoZvMilMk=s900-c-k-c0x00ffffff-no-rj" ,✰ KANAL D HD ( DRAMA VIVE )  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14478
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/282ae7e2379f661a2506d322a73f9125.png" ,✰ LATINA HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Latina_TV_logo_con_fondo_2_2014-2017.svg/revision/latest/scale-to-width-down/250?cb=20220528033821&path-prefix=es" ,✰ LATINA SD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14364
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/5bf2c1d0d3737fc146be10d454513d42.jpg" ,✰ LIGA 1 FHD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14208
+#EXTINF:-1 tvg-logo="https://liga2peru.carrd.co/assets/images/image01.jpg?v98201726126851" ,✰ LIGA 1 HD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14363
+#EXTINF:-1 tvg-logo="https://claroperupoc.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" ,✰ LIGA 1 MAX FHD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14894
+#EXTINF:-1 tvg-logo="https://claroperupoc.vtexassets.com/arquivos/ids/1667923/liga-1-max.png?v=638425720379200000" ,✰ LIGA 1 MAX HD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14211
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/c33bb6e453314249249a8004693f5581.jpg" ,✰ M. DEPORTES FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/11996
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5NPs--6WH6gywucN9YIxbc7JjSoM9YrJyeQOpP8dqaCz9W6HFdpyM4DU0y_dbISF4wg9sAGXow=s900-c-k-c0x00ffffff-no-rj" ,✰ M. DEPORTES HD ✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/20
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" ,✰ M. DEPORTES SD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14047
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxYll9AVql7oujNwCXgwRxfKe1nXJhhU6dS-GaKRHs=s900-c-k-c0xffffffff-no-rj-mo" ,✰ MOVISTAR PLUS HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/6167
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/e86beb9fe5a07e78003eef735f51d9f5.jpg" ,✰ NAT GEO HD    ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/148
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/70402a2304f8d1d0f4f0c24d9bc58da9.jpg" ,✰ NAT GEO PERU HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/889
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/929aff235b7a4ada77ec8e8c7d9ee7a4.jpg" ,✰ PANAMERICANA FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14131
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/929aff235b7a4ada77ec8e8c7d9ee7a4.jpg" ,✰ PANAMERICANA HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/8
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLmt1Ym8ucmNudHZfaWNvbl8xNTY5MjYzNjkxXzA0Ng/icon.png?w=&fakeurl=1" ,✰ RCN FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14803
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/dca042af11051a9a19835c5794dd4845.jpg" ,✰ RCN HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/52
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Logo_Noticias_RCN_2014_12.30pm_2014.png/revision/latest/scale-to-width-down/250?cb=20171230012004" ,✰ RCN SD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/51
+#EXTINF:-1 tvg-logo="https://lh5.ggpht.com/iIhioS7U4OD3gqimqI0rCqqi-1QUrVnbGGSWJozrZ7B7MZc07O2_fF43bqBCDahKnlo" ,✰ RPP ( RADIO TV )  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/17
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/0d93b7e13005f748cf4b2aa331540fe0.jpg" ,✰ RPP FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14463
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/9LlvPt4szF_rJdUQ1FbuZQjErDe07gDb2ls6dhHOFd20jf8_Wt_KAU8CE4Qcej3UqTpS4xXHGg=s900-c-k-c0x00ffffff-no-rj" ,✰ SPACE FHD D.AUDIO ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/6298
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/dc77fb2244bdc151db6a4c50e5980986.jpg" ,✰ SPACE FHD D.AUDIO ✰✰✰ ....
+http://nino4play.com:25461/JULIA/ARAUJO/122
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT4tGT2bwhmoJOJdRlF_scHI9cBbUbvzkjnclC_gg=s900-c-k-c0x00ffffff-no-rj" ,✰ TIGO SPORTS FHD ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/13805
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/45f4132e819f526bce58a18a8f58fda3.png" ,✰ TNT HD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/123
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cXjmdA_cwG1qM78OZwEXYRdPtbbu_xWvu_3Yuh64KfnvQnwaTJlOZNbeb1gcvYNeRBKL" ,✰ TUDN FHD  ( USA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/11763
+#EXTINF:-1 tvg-logo="https://i2.wp.com/radioinsight.com/wp-content/images/2019/07/tudn.png?fit=600%2C600&ssl=1" ,✰ TUDN HD  ( USA ) ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/235
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/996f778d08234b3fb00ad0f9fcf6115b.png" ,✰ TUDN HD ( MEXICO )  ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/234
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZjW-ZeFdklExOsTJAQxwP9wnQw70gQVA-pgDMGbuwP_axfcGWa_CT1SD2Mx1LExKwac" ,✰ TUDN SD ( MEXICO )  ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/14842
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/t34aPOdqwVFfE8PX2YDvnu0a2IIPkRYSGugoyM9Cy2AP01PWl8IGAVwlcK0XvPQuBPMq8Dgbsn8=s900-c-k-c0x00ffffff-no-rj" ,✰ TV PERU HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/24
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL67jS1PDuvWIEhR4V5NnNnfw6kgPH-U_fLafz1CjXEwHCkO0kQZp_V9ovS9BWTuDg7M0&usqp=CAU" ,✰ WILLAX HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/25
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/Willax_TV_cu%C3%B1a_2014-2015.png/revision/latest/top-crop/width/300/height/300?cb=20200407151456" ,✰ WILLAX SD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/3701
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lheVEBXOJcTsfyJ7lHeXpg3DwtqDuBAZ8UOOPKTFMggBnL4NlhgJ7ZYgPOGUpHd1lGgT" ,✰ WINSPORTS FHD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/64
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/lheVEBXOJcTsfyJ7lHeXpg3DwtqDuBAZ8UOOPKTFMggBnL4NlhgJ7ZYgPOGUpHd1lGgT" ,✰ WINSPORTS HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/14058
+#EXTINF:-1 tvg-logo="http://nino4play.com:25461/images/caaba3362608ac504d23dfef6da35ad1.png" ,✰ WINSPORTS PLUS FHD  ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/2263
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" ,✰ WINSPORTS PLUS HD ✰✰✰
+http://nino4play.com:25461/JULIA/ARAUJO/7321
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/0/0/1/0010d9674fd464b4ec3b3635b96d4d48_icon.png" ,✰ ZAPPING SPOTS   ⚽⚽⚽
+http://nino4play.com:25461/JULIA/ARAUJO/11753
